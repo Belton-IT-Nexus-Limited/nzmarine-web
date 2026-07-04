@@ -1,0 +1,68 @@
+name: Build and deploy
+
+# On every push to main (except the promote commit and docs), build the site
+# image, push it to GHCR, then write the new immutable digest into
+# deploy/deployment.yaml. Flux watches this repo and rolls it out to the cluster.
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'deploy/deployment.yaml'
+      - 'README.md'
+      - '**/*.md'
+
+permissions:
+  contents: write
+  packages: write
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  IMAGE: ghcr.io/belton-it-nexus-limited/nzmarine-web
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: docker/setup-buildx-action@v3
+
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build and push
+        id: build
+        uses: docker/build-push-action@v6
+        with:
+          context: .
+          push: true
+          tags: ${{ env.IMAGE }}:${{ github.sha }}
+          provenance: false
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Promote digest into deploy manifest
+        env:
+          DIGEST: ${{ steps.build.outputs.digest }}
+        run: |
+          set -euo pipefail
+          REF="${IMAGE}@${DIGEST}"
+          echo "Promoting ${REF}"
+          sed -i -E "s#(^[[:space:]]*image:[[:space:]]*).*#\1${REF}#" deploy/deployment.yaml
+          grep 'image:' deploy/deployment.yaml
+          git config user.name "nzmarine-ci"
+          git config user.email "ci@belton-it-nexus.dev"
+          git add deploy/deployment.yaml
+          if git diff --cached --quiet; then
+            echo "No image change to promote."
+            exit 0
+          fi
+          git commit -m "deploy: nzmarine-web ${DIGEST}"
+          git push
