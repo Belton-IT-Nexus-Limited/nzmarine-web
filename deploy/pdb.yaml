@@ -1,0 +1,13 @@
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: nzmarine-web
+  namespace: tenant-nzmarine
+  labels:
+    app.kubernetes.io/name: nzmarine-web
+    portal.platform/app: nzmarine-web
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels:
+      app.kubernetes.io/name: nzmarine-web

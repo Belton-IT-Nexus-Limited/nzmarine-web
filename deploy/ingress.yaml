@@ -1,0 +1,24 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: nzmarine-web-client-nzmarine-bitn-cloud
+  namespace: tenant-nzmarine
+  labels:
+    portal.platform/app: "nzmarine-web"
+    portal.platform/tenant: "nzmarine"
+    portal.platform/managed-by: portal-client-domains
+  annotations:
+    kubernetes.io/ingress.class: nginx
+    nginx.ingress.kubernetes.io/ssl-redirect: "true"
+spec:
+  rules:
+  - host: "nzmarine.bitn.cloud"
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: nzmarine-web
+            port:
+              name: http

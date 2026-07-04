@@ -1,0 +1,9 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+# The app resources Flux applies into tenant-nzmarine. nginx.conf lives here for
+# the Docker build but is intentionally not a Kubernetes resource.
+resources:
+  - deployment.yaml
+  - ingress.yaml
+  - netpol.yaml
+  - pdb.yaml

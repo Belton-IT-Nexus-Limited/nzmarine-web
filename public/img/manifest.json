@@ -1,0 +1,3976 @@
+{
+  "generated": "static",
+  "counts": {
+    "photos": 372,
+    "logos": 35
+  },
+  "photos": [
+    {
+      "slug": "2022-01-westhaven-spinlock",
+      "lg": "/img/web/2022-01-westhaven-spinlock-lg.webp",
+      "sm": "/img/web/2022-01-westhaven-spinlock-sm.webp",
+      "w": 1920,
+      "h": 2880,
+      "orientation": "portrait",
+      "area": 5529600,
+      "name": "Westhaven-Spinlock"
+    },
+    {
+      "slug": "2026-03-q-west-police-scania-water-police-095-mb",
+      "lg": "/img/web/2026-03-q-west-police-scania-water-police-095-mb-lg.webp",
+      "sm": "/img/web/2026-03-q-west-police-scania-water-police-095-mb-sm.webp",
+      "w": 1920,
+      "h": 2876,
+      "orientation": "portrait",
+      "area": 5521920,
+      "name": "Q-West-Police-SCANIA-WATER-POLICE-095-MB"
+    },
+    {
+      "slug": "2020-05-josh-vogels-etnz-apprentice-scaled-e1589420339966",
+      "lg": "/img/web/2020-05-josh-vogels-etnz-apprentice-scaled-e1589420339966-lg.webp",
+      "sm": "/img/web/2020-05-josh-vogels-etnz-apprentice-scaled-e1589420339966-sm.webp",
+      "w": 1920,
+      "h": 2560,
+      "orientation": "portrait",
+      "area": 4915200,
+      "name": "Josh-Vogels-ETNZ-apprentice-scaled-e1589420339966"
+    },
+    {
+      "slug": "2023-02-faciltator-barge-at-work-scaled",
+      "lg": "/img/web/2023-02-faciltator-barge-at-work-scaled-lg.webp",
+      "sm": "/img/web/2023-02-faciltator-barge-at-work-scaled-sm.webp",
+      "w": 1920,
+      "h": 2560,
+      "orientation": "portrait",
+      "area": 4915200,
+      "name": "Faciltator-barge-at-work-scaled"
+    },
+    {
+      "slug": "2023-02-faciltator-barge-at-work",
+      "lg": "/img/web/2023-02-faciltator-barge-at-work-lg.webp",
+      "sm": "/img/web/2023-02-faciltator-barge-at-work-sm.webp",
+      "w": 1920,
+      "h": 2560,
+      "orientation": "landscape",
+      "area": 4915200,
+      "name": "Faciltator-barge-at-work"
+    },
+    {
+      "slug": "2023-06-nick-fogarty-scaled-1",
+      "lg": "/img/web/2023-06-nick-fogarty-scaled-1-lg.webp",
+      "sm": "/img/web/2023-06-nick-fogarty-scaled-1-sm.webp",
+      "w": 1920,
+      "h": 2559,
+      "orientation": "portrait",
+      "area": 4913280,
+      "name": "Nick-Fogarty-scaled-1"
+    },
+    {
+      "slug": "2019-02-fisher-vest",
+      "lg": "/img/web/2019-02-fisher-vest-lg.webp",
+      "sm": "/img/web/2019-02-fisher-vest-sm.webp",
+      "w": 1920,
+      "h": 2454,
+      "orientation": "portrait",
+      "area": 4711680,
+      "name": "Fisher-Vest"
+    },
+    {
+      "slug": "sites-10-2023-07-stacey-cook",
+      "lg": "/img/web/sites-10-2023-07-stacey-cook-lg.webp",
+      "sm": "/img/web/sites-10-2023-07-stacey-cook-sm.webp",
+      "w": 1920,
+      "h": 2389,
+      "orientation": "portrait",
+      "area": 4586880,
+      "name": "Stacey-Cook"
+    },
+    {
+      "slug": "2026-05-peter-busfield-photo",
+      "lg": "/img/web/2026-05-peter-busfield-photo-lg.webp",
+      "sm": "/img/web/2026-05-peter-busfield-photo-sm.webp",
+      "w": 1920,
+      "h": 2291,
+      "orientation": "portrait",
+      "area": 4398720,
+      "name": "Peter-Busfield-photo"
+    },
+    {
+      "slug": "2024-02-se-joystick-stbd-3-4-green",
+      "lg": "/img/web/2024-02-se-joystick-stbd-3-4-green-lg.webp",
+      "sm": "/img/web/2024-02-se-joystick-stbd-3-4-green-sm.webp",
+      "w": 1920,
+      "h": 2135,
+      "orientation": "square",
+      "area": 4099200,
+      "name": "SE_Joystick_Stbd_3_4_Green"
+    },
+    {
+      "slug": "2025-01-lb-raymarine-50-years",
+      "lg": "/img/web/2025-01-lb-raymarine-50-years-lg.webp",
+      "sm": "/img/web/2025-01-lb-raymarine-50-years-sm.webp",
+      "w": 1920,
+      "h": 1977,
+      "orientation": "square",
+      "area": 3795840,
+      "name": "LB-Raymarine-50-years"
+    },
+    {
+      "slug": "2020-01-spinlock-lifejackets",
+      "lg": "/img/web/2020-01-spinlock-lifejackets-lg.webp",
+      "sm": "/img/web/2020-01-spinlock-lifejackets-sm.webp",
+      "w": 1920,
+      "h": 1926,
+      "orientation": "square",
+      "area": 3697920,
+      "name": "Spinlock-lifejackets"
+    },
+    {
+      "slug": "2021-10-context-render-sl-rcf90",
+      "lg": "/img/web/2021-10-context-render-sl-rcf90-lg.webp",
+      "sm": "/img/web/2021-10-context-render-sl-rcf90-sm.webp",
+      "w": 1920,
+      "h": 1920,
+      "orientation": "square",
+      "area": 3686400,
+      "name": "Context-Render-SL-RCF90"
+    },
+    {
+      "slug": "2023-02-cam-pic",
+      "lg": "/img/web/2023-02-cam-pic-lg.webp",
+      "sm": "/img/web/2023-02-cam-pic-sm.webp",
+      "w": 1920,
+      "h": 1920,
+      "orientation": "square",
+      "area": 3686400,
+      "name": "Cam-pic"
+    },
+    {
+      "slug": "2025-10-hikoterra",
+      "lg": "/img/web/2025-10-hikoterra-lg.webp",
+      "sm": "/img/web/2025-10-hikoterra-sm.webp",
+      "w": 1920,
+      "h": 1920,
+      "orientation": "square",
+      "area": 3686400,
+      "name": "HikoTerra"
+    },
+    {
+      "slug": "2026-03-cmap-port-hardy-durvilleis-nz",
+      "lg": "/img/web/2026-03-cmap-port-hardy-durvilleis-nz-lg.webp",
+      "sm": "/img/web/2026-03-cmap-port-hardy-durvilleis-nz-sm.webp",
+      "w": 1920,
+      "h": 1920,
+      "orientation": "square",
+      "area": 3686400,
+      "name": "CMAP-Port-hardy_DurvilleIs_NZ"
+    },
+    {
+      "slug": "2026-06-nzmoa-career-pathway-social-tiles-scaled",
+      "lg": "/img/web/2026-06-nzmoa-career-pathway-social-tiles-scaled-lg.webp",
+      "sm": "/img/web/2026-06-nzmoa-career-pathway-social-tiles-scaled-sm.webp",
+      "w": 1920,
+      "h": 1920,
+      "orientation": "square",
+      "area": 3686400,
+      "name": "NZMOA-Career-pathway-social-tiles-scaled"
+    },
+    {
+      "slug": "2026-06-nzmoa-career-pathway-social-tiles",
+      "lg": "/img/web/2026-06-nzmoa-career-pathway-social-tiles-lg.webp",
+      "sm": "/img/web/2026-06-nzmoa-career-pathway-social-tiles-sm.webp",
+      "w": 1920,
+      "h": 1920,
+      "orientation": "square",
+      "area": 3686400,
+      "name": "NZMOA-Career-pathway-social-tiles"
+    },
+    {
+      "slug": "sites-10-2023-12-enl",
+      "lg": "/img/web/sites-10-2023-12-enl-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-enl-sm.webp",
+      "w": 1920,
+      "h": 1920,
+      "orientation": "square",
+      "area": 3686400,
+      "name": "ENL"
+    },
+    {
+      "slug": "2025-03-propspeed-and-seakeepers-e1741571986655",
+      "lg": "/img/web/2025-03-propspeed-and-seakeepers-e1741571986655-lg.webp",
+      "sm": "/img/web/2025-03-propspeed-and-seakeepers-e1741571986655-sm.webp",
+      "w": 1730,
+      "h": 1845,
+      "orientation": "square",
+      "area": 3191850,
+      "name": "Propspeed-and-SeaKeepers-e1741571986655"
+    },
+    {
+      "slug": "2025-04-yamaha-hydrogen",
+      "lg": "/img/web/2025-04-yamaha-hydrogen-lg.webp",
+      "sm": "/img/web/2025-04-yamaha-hydrogen-sm.webp",
+      "w": 1344,
+      "h": 2356,
+      "orientation": "portrait",
+      "area": 3166464,
+      "name": "Yamaha-hydrogen"
+    },
+    {
+      "slug": "2022-01-deutz-dps-110",
+      "lg": "/img/web/2022-01-deutz-dps-110-lg.webp",
+      "sm": "/img/web/2022-01-deutz-dps-110-sm.webp",
+      "w": 1920,
+      "h": 1555,
+      "orientation": "landscape",
+      "area": 2985600,
+      "name": "DEUTZ_DPS_110"
+    },
+    {
+      "slug": "2020-06-surtees-popup-2",
+      "lg": "/img/web/2020-06-surtees-popup-2-lg.webp",
+      "sm": "/img/web/2020-06-surtees-popup-2-sm.webp",
+      "w": 1920,
+      "h": 1543,
+      "orientation": "landscape",
+      "area": 2962560,
+      "name": "Surtees-PopUp-2"
+    },
+    {
+      "slug": "2024-04-lighthouse",
+      "lg": "/img/web/2024-04-lighthouse-lg.webp",
+      "sm": "/img/web/2024-04-lighthouse-sm.webp",
+      "w": 1920,
+      "h": 1468,
+      "orientation": "landscape",
+      "area": 2818560,
+      "name": "Lighthouse"
+    },
+    {
+      "slug": "2024-07-mnz-s-21-article-photo-2",
+      "lg": "/img/web/2024-07-mnz-s-21-article-photo-2-lg.webp",
+      "sm": "/img/web/2024-07-mnz-s-21-article-photo-2-sm.webp",
+      "w": 1920,
+      "h": 1446,
+      "orientation": "landscape",
+      "area": 2776320,
+      "name": "MNZ-S-21-article-photo-2_"
+    },
+    {
+      "slug": "2021-06-orams-marines-820-tonne-and-85-tonne-marine-travel-lifts-by-night",
+      "lg": "/img/web/2021-06-orams-marines-820-tonne-and-85-tonne-marine-travel-lifts-by-night-lg.webp",
+      "sm": "/img/web/2021-06-orams-marines-820-tonne-and-85-tonne-marine-travel-lifts-by-night-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Orams-Marines-820-tonne-and-85-tonne-marine-travel-lifts-by-night_"
+    },
+    {
+      "slug": "2021-10-lb-specialist-lithium-team",
+      "lg": "/img/web/2021-10-lb-specialist-lithium-team-lg.webp",
+      "sm": "/img/web/2021-10-lb-specialist-lithium-team-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "LB-Specialist-Lithium-Team"
+    },
+    {
+      "slug": "2021-11-21mets-nz-4",
+      "lg": "/img/web/2021-11-21mets-nz-4-lg.webp",
+      "sm": "/img/web/2021-11-21mets-nz-4-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "21METS_NZ-4"
+    },
+    {
+      "slug": "2021-11-21mets-nz-4-jpeg",
+      "lg": "/img/web/2021-11-21mets-nz-4-jpeg-lg.webp",
+      "sm": "/img/web/2021-11-21mets-nz-4-jpeg-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "21METS_NZ-4.jpeg"
+    },
+    {
+      "slug": "2023-02-hh-sp725",
+      "lg": "/img/web/2023-02-hh-sp725-lg.webp",
+      "sm": "/img/web/2023-02-hh-sp725-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "HH-SP725"
+    },
+    {
+      "slug": "2023-05-axiom",
+      "lg": "/img/web/2023-05-axiom-lg.webp",
+      "sm": "/img/web/2023-05-axiom-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Axiom"
+    },
+    {
+      "slug": "2023-06-raymarine-charts",
+      "lg": "/img/web/2023-06-raymarine-charts-lg.webp",
+      "sm": "/img/web/2023-06-raymarine-charts-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Raymarine-charts"
+    },
+    {
+      "slug": "2023-06-richard-lowe-enl-scaled-1",
+      "lg": "/img/web/2023-06-richard-lowe-enl-scaled-1-lg.webp",
+      "sm": "/img/web/2023-06-richard-lowe-enl-scaled-1-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Richard-Lowe-ENL-scaled-1"
+    },
+    {
+      "slug": "2023-07-ovlov-new-gh-branch",
+      "lg": "/img/web/2023-07-ovlov-new-gh-branch-lg.webp",
+      "sm": "/img/web/2023-07-ovlov-new-gh-branch-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Ovlov-new-GH-branch"
+    },
+    {
+      "slug": "2023-09-senator-prizegiving",
+      "lg": "/img/web/2023-09-senator-prizegiving-lg.webp",
+      "sm": "/img/web/2023-09-senator-prizegiving-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Senator-prizegiving"
+    },
+    {
+      "slug": "2024-03-rayglass-3000",
+      "lg": "/img/web/2024-03-rayglass-3000-lg.webp",
+      "sm": "/img/web/2024-03-rayglass-3000-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Rayglass-3000"
+    },
+    {
+      "slug": "2024-04-senator-new-models-1",
+      "lg": "/img/web/2024-04-senator-new-models-1-lg.webp",
+      "sm": "/img/web/2024-04-senator-new-models-1-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Senator-new-models-1"
+    },
+    {
+      "slug": "2024-08-darren-vaux-addresses-delegates-2024",
+      "lg": "/img/web/2024-08-darren-vaux-addresses-delegates-2024-lg.webp",
+      "sm": "/img/web/2024-08-darren-vaux-addresses-delegates-2024-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Darren-Vaux-addresses-delegates-2024"
+    },
+    {
+      "slug": "2025-04-ica-7788",
+      "lg": "/img/web/2025-04-ica-7788-lg.webp",
+      "sm": "/img/web/2025-04-ica-7788-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "ICA_7788"
+    },
+    {
+      "slug": "sites-10-2023-12-370240223-677146224445343-4700329983402576885-n",
+      "lg": "/img/web/sites-10-2023-12-370240223-677146224445343-4700329983402576885-n-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-370240223-677146224445343-4700329983402576885-n-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "370240223_677146224445343_4700329983402576885_n"
+    },
+    {
+      "slug": "sites-10-2024-08-darren-vaux-addresses-delegates-2024",
+      "lg": "/img/web/sites-10-2024-08-darren-vaux-addresses-delegates-2024-lg.webp",
+      "sm": "/img/web/sites-10-2024-08-darren-vaux-addresses-delegates-2024-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Darren-Vaux-addresses-delegates-2024"
+    },
+    {
+      "slug": "sites-10-2025-10-boat-scaled",
+      "lg": "/img/web/sites-10-2025-10-boat-scaled-lg.webp",
+      "sm": "/img/web/sites-10-2025-10-boat-scaled-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "boat-scaled"
+    },
+    {
+      "slug": "sites-10-2025-10-boat",
+      "lg": "/img/web/sites-10-2025-10-boat-lg.webp",
+      "sm": "/img/web/sites-10-2025-10-boat-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "boat"
+    },
+    {
+      "slug": "sites-10-2026-03-mets-2025-scaled",
+      "lg": "/img/web/sites-10-2026-03-mets-2025-scaled-lg.webp",
+      "sm": "/img/web/sites-10-2026-03-mets-2025-scaled-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "METS-2025-scaled"
+    },
+    {
+      "slug": "sites-10-2026-03-mets-stand-2025",
+      "lg": "/img/web/sites-10-2026-03-mets-stand-2025-lg.webp",
+      "sm": "/img/web/sites-10-2026-03-mets-stand-2025-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "Mets-STAND-2025"
+    },
+    {
+      "slug": "sites-10-2026-05-mets-1-scaled",
+      "lg": "/img/web/sites-10-2026-05-mets-1-scaled-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-mets-1-scaled-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "mets-1-scaled"
+    },
+    {
+      "slug": "sites-10-2026-05-mets-1",
+      "lg": "/img/web/sites-10-2026-05-mets-1-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-mets-1-sm.webp",
+      "w": 1920,
+      "h": 1440,
+      "orientation": "landscape",
+      "area": 2764800,
+      "name": "mets-1"
+    },
+    {
+      "slug": "sites-10-2026-05-sea-trials-birds-eye-view",
+      "lg": "/img/web/sites-10-2026-05-sea-trials-birds-eye-view-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-sea-trials-birds-eye-view-sm.webp",
+      "w": 1920,
+      "h": 1439,
+      "orientation": "landscape",
+      "area": 2762880,
+      "name": "Sea-trials-birds-eye-view"
+    },
+    {
+      "slug": "sites-10-2025-10-nzm-home-page-slide",
+      "lg": "/img/web/sites-10-2025-10-nzm-home-page-slide-lg.webp",
+      "sm": "/img/web/sites-10-2025-10-nzm-home-page-slide-sm.webp",
+      "w": 1920,
+      "h": 1438,
+      "orientation": "landscape",
+      "area": 2760960,
+      "name": "nzm-home-page-slide"
+    },
+    {
+      "slug": "sites-10-2026-05-drone-view-from-restaurants",
+      "lg": "/img/web/sites-10-2026-05-drone-view-from-restaurants-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-drone-view-from-restaurants-sm.webp",
+      "w": 1920,
+      "h": 1438,
+      "orientation": "landscape",
+      "area": 2760960,
+      "name": "Drone-view-from-Restaurants"
+    },
+    {
+      "slug": "sites-10-2026-05-wynyard-wharf-outside-stands",
+      "lg": "/img/web/sites-10-2026-05-wynyard-wharf-outside-stands-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-wynyard-wharf-outside-stands-sm.webp",
+      "w": 1920,
+      "h": 1438,
+      "orientation": "landscape",
+      "area": 2760960,
+      "name": "Wynyard-wharf-outside-stands"
+    },
+    {
+      "slug": "2020-03-stowpod-and-drinkhold",
+      "lg": "/img/web/2020-03-stowpod-and-drinkhold-lg.webp",
+      "sm": "/img/web/2020-03-stowpod-and-drinkhold-sm.webp",
+      "w": 1920,
+      "h": 1401,
+      "orientation": "landscape",
+      "area": 2689920,
+      "name": "StowPod-and-DrinkHold"
+    },
+    {
+      "slug": "2024-10-yamaha-matt-watson",
+      "lg": "/img/web/2024-10-yamaha-matt-watson-lg.webp",
+      "sm": "/img/web/2024-10-yamaha-matt-watson-sm.webp",
+      "w": 1920,
+      "h": 1383,
+      "orientation": "landscape",
+      "area": 2655360,
+      "name": "Yamaha-Matt-Watson"
+    },
+    {
+      "slug": "sites-10-2026-05-jeff-brown-23194",
+      "lg": "/img/web/sites-10-2026-05-jeff-brown-23194-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-jeff-brown-23194-sm.webp",
+      "w": 1920,
+      "h": 1383,
+      "orientation": "landscape",
+      "area": 2655360,
+      "name": "Jeff_Brown-23194"
+    },
+    {
+      "slug": "2023-11-raymarine-dame",
+      "lg": "/img/web/2023-11-raymarine-dame-lg.webp",
+      "sm": "/img/web/2023-11-raymarine-dame-sm.webp",
+      "w": 1920,
+      "h": 1371,
+      "orientation": "landscape",
+      "area": 2632320,
+      "name": "Raymarine-DAME"
+    },
+    {
+      "slug": "2021-11-adfa4896-1fdb-7380-fb60-69dc999a8081",
+      "lg": "/img/web/2021-11-adfa4896-1fdb-7380-fb60-69dc999a8081-lg.webp",
+      "sm": "/img/web/2021-11-adfa4896-1fdb-7380-fb60-69dc999a8081-sm.webp",
+      "w": 1876,
+      "h": 1402,
+      "orientation": "landscape",
+      "area": 2630152,
+      "name": "adfa4896-1fdb-7380-fb60-69dc999a8081"
+    },
+    {
+      "slug": "2026-05-nz-boat-register-for-white-background-scaled",
+      "lg": "/img/web/2026-05-nz-boat-register-for-white-background-scaled-lg.webp",
+      "sm": "/img/web/2026-05-nz-boat-register-for-white-background-scaled-sm.webp",
+      "w": 1920,
+      "h": 1360,
+      "orientation": "landscape",
+      "area": 2611200,
+      "name": "NZ-Boat-Register-for-white-background-scaled"
+    },
+    {
+      "slug": "2026-05-nz-boat-register-for-white-background",
+      "lg": "/img/web/2026-05-nz-boat-register-for-white-background-lg.webp",
+      "sm": "/img/web/2026-05-nz-boat-register-for-white-background-sm.webp",
+      "w": 1920,
+      "h": 1360,
+      "orientation": "landscape",
+      "area": 2611200,
+      "name": "NZ-Boat-Register-for-white-background"
+    },
+    {
+      "slug": "2020-06-lcb-angle01-003",
+      "lg": "/img/web/2020-06-lcb-angle01-003-lg.webp",
+      "sm": "/img/web/2020-06-lcb-angle01-003-sm.webp",
+      "w": 1920,
+      "h": 1358,
+      "orientation": "landscape",
+      "area": 2607360,
+      "name": "LCB-ANGLE01-003"
+    },
+    {
+      "slug": "2022-03-etnz-m4887-southern-spars",
+      "lg": "/img/web/2022-03-etnz-m4887-southern-spars-lg.webp",
+      "sm": "/img/web/2022-03-etnz-m4887-southern-spars-sm.webp",
+      "w": 1920,
+      "h": 1358,
+      "orientation": "landscape",
+      "area": 2607360,
+      "name": "ETNZ-m4887_Southern-Spars"
+    },
+    {
+      "slug": "2018-01-yd-1017-rendering-1",
+      "lg": "/img/web/2018-01-yd-1017-rendering-1-lg.webp",
+      "sm": "/img/web/2018-01-yd-1017-rendering-1-sm.webp",
+      "w": 1920,
+      "h": 1357,
+      "orientation": "landscape",
+      "area": 2605440,
+      "name": "YD-1017-rendering-1"
+    },
+    {
+      "slug": "2019-10-wassp-rds",
+      "lg": "/img/web/2019-10-wassp-rds-lg.webp",
+      "sm": "/img/web/2019-10-wassp-rds-sm.webp",
+      "w": 1500,
+      "h": 1727,
+      "orientation": "portrait",
+      "area": 2590500,
+      "name": "WASSP-RDS"
+    },
+    {
+      "slug": "sites-10-2025-10-nzm-home-page-slide-2-1-edited",
+      "lg": "/img/web/sites-10-2025-10-nzm-home-page-slide-2-1-edited-lg.webp",
+      "sm": "/img/web/sites-10-2025-10-nzm-home-page-slide-2-1-edited-sm.webp",
+      "w": 1920,
+      "h": 1345,
+      "orientation": "landscape",
+      "area": 2582400,
+      "name": "nzm-home-page-slide-2-1-edited"
+    },
+    {
+      "slug": "sites-10-2025-10-nzm-home-page-slide-2-1-scaled",
+      "lg": "/img/web/sites-10-2025-10-nzm-home-page-slide-2-1-scaled-lg.webp",
+      "sm": "/img/web/sites-10-2025-10-nzm-home-page-slide-2-1-scaled-sm.webp",
+      "w": 1920,
+      "h": 1345,
+      "orientation": "landscape",
+      "area": 2582400,
+      "name": "nzm-home-page-slide-2-1-scaled"
+    },
+    {
+      "slug": "sites-10-2025-10-nzm-home-page-slide-2-1",
+      "lg": "/img/web/sites-10-2025-10-nzm-home-page-slide-2-1-lg.webp",
+      "sm": "/img/web/sites-10-2025-10-nzm-home-page-slide-2-1-sm.webp",
+      "w": 1920,
+      "h": 1345,
+      "orientation": "landscape",
+      "area": 2582400,
+      "name": "nzm-home-page-slide-2-1"
+    },
+    {
+      "slug": "2020-11-hamjet-kaikoura",
+      "lg": "/img/web/2020-11-hamjet-kaikoura-lg.webp",
+      "sm": "/img/web/2020-11-hamjet-kaikoura-sm.webp",
+      "w": 1920,
+      "h": 1324,
+      "orientation": "landscape",
+      "area": 2542080,
+      "name": "Hamjet-Kaikoura"
+    },
+    {
+      "slug": "sites-10-2026-05-jeff-brown-11910",
+      "lg": "/img/web/sites-10-2026-05-jeff-brown-11910-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-jeff-brown-11910-sm.webp",
+      "w": 1920,
+      "h": 1322,
+      "orientation": "landscape",
+      "area": 2538240,
+      "name": "Jeff-Brown-11910"
+    },
+    {
+      "slug": "sites-10-2026-05-jeff-brown-23018",
+      "lg": "/img/web/sites-10-2026-05-jeff-brown-23018-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-jeff-brown-23018-sm.webp",
+      "w": 1920,
+      "h": 1320,
+      "orientation": "landscape",
+      "area": 2534400,
+      "name": "Jeff-Brown-23018"
+    },
+    {
+      "slug": "sites-10-2023-12-monoco",
+      "lg": "/img/web/sites-10-2023-12-monoco-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-monoco-sm.webp",
+      "w": 1920,
+      "h": 1314,
+      "orientation": "landscape",
+      "area": 2522880,
+      "name": "Monoco"
+    },
+    {
+      "slug": "sites-10-2024-03-jeff-brown-11752",
+      "lg": "/img/web/sites-10-2024-03-jeff-brown-11752-lg.webp",
+      "sm": "/img/web/sites-10-2024-03-jeff-brown-11752-sm.webp",
+      "w": 1920,
+      "h": 1308,
+      "orientation": "landscape",
+      "area": 2511360,
+      "name": "Jeff-Brown-11752"
+    },
+    {
+      "slug": "2024-02-jeff-brown-perseus-3-wins",
+      "lg": "/img/web/2024-02-jeff-brown-perseus-3-wins-lg.webp",
+      "sm": "/img/web/2024-02-jeff-brown-perseus-3-wins-sm.webp",
+      "w": 1920,
+      "h": 1298,
+      "orientation": "landscape",
+      "area": 2492160,
+      "name": "Jeff-Brown-Perseus-3-wins"
+    },
+    {
+      "slug": "2019-03-eppnz-spirit-1-0-5",
+      "lg": "/img/web/2019-03-eppnz-spirit-1-0-5-lg.webp",
+      "sm": "/img/web/2019-03-eppnz-spirit-1-0-5-sm.webp",
+      "w": 1920,
+      "h": 1290,
+      "orientation": "landscape",
+      "area": 2476800,
+      "name": "EPPNZ-Spirit-1.0_5"
+    },
+    {
+      "slug": "sites-10-2026-05-jeff-brown-21757",
+      "lg": "/img/web/sites-10-2026-05-jeff-brown-21757-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-jeff-brown-21757-sm.webp",
+      "w": 1920,
+      "h": 1288,
+      "orientation": "landscape",
+      "area": 2472960,
+      "name": "Jeff_Brown-21757"
+    },
+    {
+      "slug": "2019-05-stabicraft-4-capture",
+      "lg": "/img/web/2019-05-stabicraft-4-capture-lg.webp",
+      "sm": "/img/web/2019-05-stabicraft-4-capture-sm.webp",
+      "w": 1920,
+      "h": 1287,
+      "orientation": "landscape",
+      "area": 2471040,
+      "name": "Stabicraft-4-Capture"
+    },
+    {
+      "slug": "2023-06-mig-rumney-and-scott-parry-a-20-pound-snapper-raglan-scaled-1",
+      "lg": "/img/web/2023-06-mig-rumney-and-scott-parry-a-20-pound-snapper-raglan-scaled-1-lg.webp",
+      "sm": "/img/web/2023-06-mig-rumney-and-scott-parry-a-20-pound-snapper-raglan-scaled-1-sm.webp",
+      "w": 1920,
+      "h": 1283,
+      "orientation": "landscape",
+      "area": 2463360,
+      "name": "Mig-Rumney-and-Scott-Parry-A-20-pound-snapper-Raglan-scaled-1"
+    },
+    {
+      "slug": "2024-10-1-wassp-sonar-capture-display",
+      "lg": "/img/web/2024-10-1-wassp-sonar-capture-display-lg.webp",
+      "sm": "/img/web/2024-10-1-wassp-sonar-capture-display-sm.webp",
+      "w": 1920,
+      "h": 1283,
+      "orientation": "landscape",
+      "area": 2463360,
+      "name": "1.-WASSP-Sonar-capture-display"
+    },
+    {
+      "slug": "2020-02-harken-knots-racing-photo-credit-andrew-delves",
+      "lg": "/img/web/2020-02-harken-knots-racing-photo-credit-andrew-delves-lg.webp",
+      "sm": "/img/web/2020-02-harken-knots-racing-photo-credit-andrew-delves-sm.webp",
+      "w": 1920,
+      "h": 1282,
+      "orientation": "landscape",
+      "area": 2461440,
+      "name": "HARKEN_Knots-Racing_Photo-Credit-Andrew-Delves"
+    },
+    {
+      "slug": "2021-03-catalyst-lsb",
+      "lg": "/img/web/2021-03-catalyst-lsb-lg.webp",
+      "sm": "/img/web/2021-03-catalyst-lsb-sm.webp",
+      "w": 1920,
+      "h": 1281,
+      "orientation": "landscape",
+      "area": 2459520,
+      "name": "Catalyst-LSB"
+    },
+    {
+      "slug": "2021-12-doylesails-5",
+      "lg": "/img/web/2021-12-doylesails-5-lg.webp",
+      "sm": "/img/web/2021-12-doylesails-5-sm.webp",
+      "w": 1920,
+      "h": 1281,
+      "orientation": "landscape",
+      "area": 2459520,
+      "name": "DoyleSails-5"
+    },
+    {
+      "slug": "2024-04-haines-hunter-amphibious-scaled",
+      "lg": "/img/web/2024-04-haines-hunter-amphibious-scaled-lg.webp",
+      "sm": "/img/web/2024-04-haines-hunter-amphibious-scaled-sm.webp",
+      "w": 1920,
+      "h": 1281,
+      "orientation": "landscape",
+      "area": 2459520,
+      "name": "Haines-Hunter-amphibious-scaled"
+    },
+    {
+      "slug": "sites-10-2026-05-jeff-brown-13004-scaled",
+      "lg": "/img/web/sites-10-2026-05-jeff-brown-13004-scaled-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-jeff-brown-13004-scaled-sm.webp",
+      "w": 1920,
+      "h": 1281,
+      "orientation": "landscape",
+      "area": 2459520,
+      "name": "Jeff_Brown-13004-scaled"
+    },
+    {
+      "slug": "sites-10-2026-05-jeff-brown-13004",
+      "lg": "/img/web/sites-10-2026-05-jeff-brown-13004-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-jeff-brown-13004-sm.webp",
+      "w": 1920,
+      "h": 1281,
+      "orientation": "landscape",
+      "area": 2459520,
+      "name": "Jeff_Brown-13004"
+    },
+    {
+      "slug": "2018-11-nfp-180309-344",
+      "lg": "/img/web/2018-11-nfp-180309-344-lg.webp",
+      "sm": "/img/web/2018-11-nfp-180309-344-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "NFP-180309-344"
+    },
+    {
+      "slug": "2019-02-fastmount-feb-2019",
+      "lg": "/img/web/2019-02-fastmount-feb-2019-lg.webp",
+      "sm": "/img/web/2019-02-fastmount-feb-2019-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Fastmount-Feb-2019"
+    },
+    {
+      "slug": "2019-04-kevin-and-luke-shaking-hands",
+      "lg": "/img/web/2019-04-kevin-and-luke-shaking-hands-lg.webp",
+      "sm": "/img/web/2019-04-kevin-and-luke-shaking-hands-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Kevin-and-Luke-shaking-hands"
+    },
+    {
+      "slug": "2019-09-fbrecord18cb-00991",
+      "lg": "/img/web/2019-09-fbrecord18cb-00991-lg.webp",
+      "sm": "/img/web/2019-09-fbrecord18cb-00991-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "FBRecord18cb_00991"
+    },
+    {
+      "slug": "2019-10-enl-mc-2020",
+      "lg": "/img/web/2019-10-enl-mc-2020-lg.webp",
+      "sm": "/img/web/2019-10-enl-mc-2020-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "ENL-MC-2020"
+    },
+    {
+      "slug": "2020-05-propspeed-and-mjm-yachts",
+      "lg": "/img/web/2020-05-propspeed-and-mjm-yachts-lg.webp",
+      "sm": "/img/web/2020-05-propspeed-and-mjm-yachts-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Propspeed-and-MJM-Yachts"
+    },
+    {
+      "slug": "2020-11-tony-sparks-left-and-mike-keown-right-of-gulf-harbour-marina-with-bianca",
+      "lg": "/img/web/2020-11-tony-sparks-left-and-mike-keown-right-of-gulf-harbour-marina-with-bianca-lg.webp",
+      "sm": "/img/web/2020-11-tony-sparks-left-and-mike-keown-right-of-gulf-harbour-marina-with-bianca-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Tony-Sparks-left-and-Mike-Keown-right-of-Gulf-Harbour-Marina-with-Bianca-Cook-centre-of-NZ-Ocean-Racing"
+    },
+    {
+      "slug": "2021-02-stabi-release-navico",
+      "lg": "/img/web/2021-02-stabi-release-navico-lg.webp",
+      "sm": "/img/web/2021-02-stabi-release-navico-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Stabi-Release-Navico"
+    },
+    {
+      "slug": "2021-07-lb-new-owners-july-2021",
+      "lg": "/img/web/2021-07-lb-new-owners-july-2021-lg.webp",
+      "sm": "/img/web/2021-07-lb-new-owners-july-2021-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "LB-new-owners-July-2021"
+    },
+    {
+      "slug": "2023-01-superyachtnz-function2022-mcrawford-mp-2512",
+      "lg": "/img/web/2023-01-superyachtnz-function2022-mcrawford-mp-2512-lg.webp",
+      "sm": "/img/web/2023-01-superyachtnz-function2022-mcrawford-mp-2512-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "SuperYachtNZ_Function2022_MCrawford_MP_2512"
+    },
+    {
+      "slug": "2023-06-skipperi",
+      "lg": "/img/web/2023-06-skipperi-lg.webp",
+      "sm": "/img/web/2023-06-skipperi-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Skipperi"
+    },
+    {
+      "slug": "2023-08-delegates-in-session-scaled",
+      "lg": "/img/web/2023-08-delegates-in-session-scaled-lg.webp",
+      "sm": "/img/web/2023-08-delegates-in-session-scaled-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Delegates-in-session-scaled"
+    },
+    {
+      "slug": "2023-08-delegates-in-session",
+      "lg": "/img/web/2023-08-delegates-in-session-lg.webp",
+      "sm": "/img/web/2023-08-delegates-in-session-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Delegates-in-session"
+    },
+    {
+      "slug": "2023-11-classic-boats-on-exhibition-in-the-viaduct-by-tony-stevenson-scaled",
+      "lg": "/img/web/2023-11-classic-boats-on-exhibition-in-the-viaduct-by-tony-stevenson-scaled-lg.webp",
+      "sm": "/img/web/2023-11-classic-boats-on-exhibition-in-the-viaduct-by-tony-stevenson-scaled-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Classic-boats-on-exhibition-in-the-Viaduct-by-Tony-Stevenson-scaled"
+    },
+    {
+      "slug": "2023-11-classic-boats-on-exhibition-in-the-viaduct-by-tony-stevenson",
+      "lg": "/img/web/2023-11-classic-boats-on-exhibition-in-the-viaduct-by-tony-stevenson-lg.webp",
+      "sm": "/img/web/2023-11-classic-boats-on-exhibition-in-the-viaduct-by-tony-stevenson-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Classic-boats-on-exhibition-in-the-Viaduct-by-Tony-Stevenson"
+    },
+    {
+      "slug": "2023-12-sy-welcome2023-mc-1207",
+      "lg": "/img/web/2023-12-sy-welcome2023-mc-1207-lg.webp",
+      "sm": "/img/web/2023-12-sy-welcome2023-mc-1207-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "SY_Welcome2023_MC_1207"
+    },
+    {
+      "slug": "2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-scaled",
+      "lg": "/img/web/2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-scaled-lg.webp",
+      "sm": "/img/web/2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-scaled-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "NZ-Millennium-Cup-raced-in-Auckland-credit-Robert-Gleed-scaled"
+    },
+    {
+      "slug": "2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed",
+      "lg": "/img/web/2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-lg.webp",
+      "sm": "/img/web/2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "NZ-Millennium-Cup-raced-in-Auckland-credit-Robert-Gleed"
+    },
+    {
+      "slug": "2024-04-haines-hunter-amphibious",
+      "lg": "/img/web/2024-04-haines-hunter-amphibious-lg.webp",
+      "sm": "/img/web/2024-04-haines-hunter-amphibious-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Haines-Hunter-amphibious"
+    },
+    {
+      "slug": "2024-12-2024-superyacht-welcome-function-s5-december-mcrawford-mcp-9237",
+      "lg": "/img/web/2024-12-2024-superyacht-welcome-function-s5-december-mcrawford-mcp-9237-lg.webp",
+      "sm": "/img/web/2024-12-2024-superyacht-welcome-function-s5-december-mcrawford-mcp-9237-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "2024-Superyacht-Welcome-Function-s5-December-MCrawford_MCP_9237"
+    },
+    {
+      "slug": "2025-04-delta-48-open-scaled",
+      "lg": "/img/web/2025-04-delta-48-open-scaled-lg.webp",
+      "sm": "/img/web/2025-04-delta-48-open-scaled-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Delta-48-open-scaled"
+    },
+    {
+      "slug": "2025-04-delta-48-open",
+      "lg": "/img/web/2025-04-delta-48-open-lg.webp",
+      "sm": "/img/web/2025-04-delta-48-open-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Delta-48-open"
+    },
+    {
+      "slug": "2025-12-nz-marine-sy-welcome25-cp-1030",
+      "lg": "/img/web/2025-12-nz-marine-sy-welcome25-cp-1030-lg.webp",
+      "sm": "/img/web/2025-12-nz-marine-sy-welcome25-cp-1030-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "NZ_Marine_SY_Welcome25_CP_1030"
+    },
+    {
+      "slug": "2026-04-hutchwilco-nz-boat-show-sat-17may2025-3600px",
+      "lg": "/img/web/2026-04-hutchwilco-nz-boat-show-sat-17may2025-3600px-lg.webp",
+      "sm": "/img/web/2026-04-hutchwilco-nz-boat-show-sat-17may2025-3600px-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Hutchwilco_NZ_Boat_Show_Sat_17May2025_3600px"
+    },
+    {
+      "slug": "2026-05-rayglass-legend-2400",
+      "lg": "/img/web/2026-05-rayglass-legend-2400-lg.webp",
+      "sm": "/img/web/2026-05-rayglass-legend-2400-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Rayglass-Legend-2400"
+    },
+    {
+      "slug": "2026-05-vor-2027-scaled",
+      "lg": "/img/web/2026-05-vor-2027-scaled-lg.webp",
+      "sm": "/img/web/2026-05-vor-2027-scaled-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "VOR-2027-scaled"
+    },
+    {
+      "slug": "2026-05-vor-2027",
+      "lg": "/img/web/2026-05-vor-2027-lg.webp",
+      "sm": "/img/web/2026-05-vor-2027-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "VOR-2027"
+    },
+    {
+      "slug": "sites-10-2023-04-23-abs-drone-lsd-12-1",
+      "lg": "/img/web/sites-10-2023-04-23-abs-drone-lsd-12-1-lg.webp",
+      "sm": "/img/web/sites-10-2023-04-23-abs-drone-lsd-12-1-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "23_ABS_DRONE_LSD_12-1"
+    },
+    {
+      "slug": "sites-10-2023-09-breakout-session",
+      "lg": "/img/web/sites-10-2023-09-breakout-session-lg.webp",
+      "sm": "/img/web/sites-10-2023-09-breakout-session-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Breakout-session"
+    },
+    {
+      "slug": "sites-10-2023-09-industry-figures-cg-and-mc",
+      "lg": "/img/web/sites-10-2023-09-industry-figures-cg-and-mc-lg.webp",
+      "sm": "/img/web/sites-10-2023-09-industry-figures-cg-and-mc-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Industry-figures-CG-and-MC"
+    },
+    {
+      "slug": "sites-10-2023-12-sy-welcome2023-mc-1084",
+      "lg": "/img/web/sites-10-2023-12-sy-welcome2023-mc-1084-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-sy-welcome2023-mc-1084-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "SY_Welcome2023_MC_1084"
+    },
+    {
+      "slug": "sites-10-2023-12-sy-welcome2023-mc-1207",
+      "lg": "/img/web/sites-10-2023-12-sy-welcome2023-mc-1207-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-sy-welcome2023-mc-1207-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "SY_Welcome2023_MC_1207"
+    },
+    {
+      "slug": "sites-10-2023-12-sy-welcome2023-mc-1655",
+      "lg": "/img/web/sites-10-2023-12-sy-welcome2023-mc-1655-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-sy-welcome2023-mc-1655-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "SY_Welcome2023_MC_1655"
+    },
+    {
+      "slug": "sites-10-2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-scaled",
+      "lg": "/img/web/sites-10-2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-scaled-lg.webp",
+      "sm": "/img/web/sites-10-2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-scaled-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "NZ-Millennium-Cup-raced-in-Auckland-credit-Robert-Gleed-scaled"
+    },
+    {
+      "slug": "sites-10-2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed",
+      "lg": "/img/web/sites-10-2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-lg.webp",
+      "sm": "/img/web/sites-10-2024-02-nz-millennium-cup-raced-in-auckland-credit-robert-gleed-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "NZ-Millennium-Cup-raced-in-Auckland-credit-Robert-Gleed"
+    },
+    {
+      "slug": "sites-10-2025-10-nz-marine-sywelcome-mcrawford-0565",
+      "lg": "/img/web/sites-10-2025-10-nz-marine-sywelcome-mcrawford-0565-lg.webp",
+      "sm": "/img/web/sites-10-2025-10-nz-marine-sywelcome-mcrawford-0565-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "NZ_Marine_SYWelcome_MCrawford_0565"
+    },
+    {
+      "slug": "sites-10-2026-05-20260306-aowbs-lsd-230",
+      "lg": "/img/web/sites-10-2026-05-20260306-aowbs-lsd-230-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-20260306-aowbs-lsd-230-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "20260306_AOWBS_LSD-230"
+    },
+    {
+      "slug": "sites-10-2026-05-aperol-van",
+      "lg": "/img/web/sites-10-2026-05-aperol-van-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-aperol-van-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Aperol-van"
+    },
+    {
+      "slug": "sites-10-2026-05-kids-casting-comp",
+      "lg": "/img/web/sites-10-2026-05-kids-casting-comp-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-kids-casting-comp-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Kids-casting-comp"
+    },
+    {
+      "slug": "sites-10-2026-05-women-in-marine",
+      "lg": "/img/web/sites-10-2026-05-women-in-marine-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-women-in-marine-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "Women-in-marine"
+    },
+    {
+      "slug": "sites-10-2026-05-water-sport-and-sea-trials-2",
+      "lg": "/img/web/sites-10-2026-05-water-sport-and-sea-trials-2-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-water-sport-and-sea-trials-2-sm.webp",
+      "w": 1920,
+      "h": 1280,
+      "orientation": "landscape",
+      "area": 2457600,
+      "name": "water-sport-and-sea-trials-2"
+    },
+    {
+      "slug": "2020-10-azimut-s7-october-2020",
+      "lg": "/img/web/2020-10-azimut-s7-october-2020-lg.webp",
+      "sm": "/img/web/2020-10-azimut-s7-october-2020-sm.webp",
+      "w": 1920,
+      "h": 1279,
+      "orientation": "landscape",
+      "area": 2455680,
+      "name": "Azimut-S7-October-2020"
+    },
+    {
+      "slug": "2021-05-boi-image",
+      "lg": "/img/web/2021-05-boi-image-lg.webp",
+      "sm": "/img/web/2021-05-boi-image-sm.webp",
+      "w": 1920,
+      "h": 1279,
+      "orientation": "landscape",
+      "area": 2455680,
+      "name": "BOI-image"
+    },
+    {
+      "slug": "2024-02-smuggler-strata-750mc-1-scaled",
+      "lg": "/img/web/2024-02-smuggler-strata-750mc-1-scaled-lg.webp",
+      "sm": "/img/web/2024-02-smuggler-strata-750mc-1-scaled-sm.webp",
+      "w": 1920,
+      "h": 1278,
+      "orientation": "landscape",
+      "area": 2453760,
+      "name": "Smuggler-Strata-750MC-1-scaled"
+    },
+    {
+      "slug": "2024-02-smuggler-strata-750mc-1",
+      "lg": "/img/web/2024-02-smuggler-strata-750mc-1-lg.webp",
+      "sm": "/img/web/2024-02-smuggler-strata-750mc-1-sm.webp",
+      "w": 1920,
+      "h": 1278,
+      "orientation": "landscape",
+      "area": 2453760,
+      "name": "Smuggler-Strata-750MC-1"
+    },
+    {
+      "slug": "2019-12-brad-butterworth-left-owen-rutter-right-events-clothing",
+      "lg": "/img/web/2019-12-brad-butterworth-left-owen-rutter-right-events-clothing-lg.webp",
+      "sm": "/img/web/2019-12-brad-butterworth-left-owen-rutter-right-events-clothing-sm.webp",
+      "w": 1920,
+      "h": 1277,
+      "orientation": "landscape",
+      "area": 2451840,
+      "name": "Brad-Butterworth-left-Owen-Rutter-right-Events-Clothing"
+    },
+    {
+      "slug": "2019-09-rayglass-sept-2019",
+      "lg": "/img/web/2019-09-rayglass-sept-2019-lg.webp",
+      "sm": "/img/web/2019-09-rayglass-sept-2019-sm.webp",
+      "w": 1920,
+      "h": 1275,
+      "orientation": "landscape",
+      "area": 2448000,
+      "name": "Rayglass-Sept-2019"
+    },
+    {
+      "slug": "sites-10-2026-05-jeff-brown-21352",
+      "lg": "/img/web/sites-10-2026-05-jeff-brown-21352-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-jeff-brown-21352-sm.webp",
+      "w": 1920,
+      "h": 1273,
+      "orientation": "landscape",
+      "area": 2444160,
+      "name": "Jeff_Brown-21352"
+    },
+    {
+      "slug": "2022-05-jeff-brown-16889-002",
+      "lg": "/img/web/2022-05-jeff-brown-16889-002-lg.webp",
+      "sm": "/img/web/2022-05-jeff-brown-16889-002-sm.webp",
+      "w": 1920,
+      "h": 1272,
+      "orientation": "landscape",
+      "area": 2442240,
+      "name": "Jeff-Brown-16889-002"
+    },
+    {
+      "slug": "2021-06-lb-roadshow",
+      "lg": "/img/web/2021-06-lb-roadshow-lg.webp",
+      "sm": "/img/web/2021-06-lb-roadshow-sm.webp",
+      "w": 1920,
+      "h": 1266,
+      "orientation": "landscape",
+      "area": 2430720,
+      "name": "LB-roadshow"
+    },
+    {
+      "slug": "2018-01-simrad-nso24-evo3",
+      "lg": "/img/web/2018-01-simrad-nso24-evo3-lg.webp",
+      "sm": "/img/web/2018-01-simrad-nso24-evo3-sm.webp",
+      "w": 1920,
+      "h": 1234,
+      "orientation": "landscape",
+      "area": 2369280,
+      "name": "Simrad-NSO24-evo3"
+    },
+    {
+      "slug": "2022-03-hutchwilco-bs-surtees-gate-prize",
+      "lg": "/img/web/2022-03-hutchwilco-bs-surtees-gate-prize-lg.webp",
+      "sm": "/img/web/2022-03-hutchwilco-bs-surtees-gate-prize-sm.webp",
+      "w": 1920,
+      "h": 1230,
+      "orientation": "landscape",
+      "area": 2361600,
+      "name": "Hutchwilco-BS-Surtees-gate-prize"
+    },
+    {
+      "slug": "2021-11-cyclone",
+      "lg": "/img/web/2021-11-cyclone-lg.webp",
+      "sm": "/img/web/2021-11-cyclone-sm.webp",
+      "w": 1920,
+      "h": 1200,
+      "orientation": "landscape",
+      "area": 2304000,
+      "name": "Cyclone"
+    },
+    {
+      "slug": "2025-06-mckay-e-alia-vessel-1",
+      "lg": "/img/web/2025-06-mckay-e-alia-vessel-1-lg.webp",
+      "sm": "/img/web/2025-06-mckay-e-alia-vessel-1-sm.webp",
+      "w": 1920,
+      "h": 1188,
+      "orientation": "landscape",
+      "area": 2280960,
+      "name": "McKay-E-Alia-Vessel-1"
+    },
+    {
+      "slug": "2021-10-screen-shot-2021-10-14-at-1-46-54-pm",
+      "lg": "/img/web/2021-10-screen-shot-2021-10-14-at-1-46-54-pm-lg.webp",
+      "sm": "/img/web/2021-10-screen-shot-2021-10-14-at-1-46-54-pm-sm.webp",
+      "w": 1920,
+      "h": 1174,
+      "orientation": "landscape",
+      "area": 2254080,
+      "name": "Screen-Shot-2021-10-14-at-1.46.54-PM"
+    },
+    {
+      "slug": "2023-06-vetus-and-yamaha-helm-master",
+      "lg": "/img/web/2023-06-vetus-and-yamaha-helm-master-lg.webp",
+      "sm": "/img/web/2023-06-vetus-and-yamaha-helm-master-sm.webp",
+      "w": 1500,
+      "h": 1500,
+      "orientation": "square",
+      "area": 2250000,
+      "name": "Vetus-and-Yamaha-Helm-Master"
+    },
+    {
+      "slug": "sites-10-2025-08-nz-marine-ia-recognised-member",
+      "lg": "/img/web/sites-10-2025-08-nz-marine-ia-recognised-member-lg.webp",
+      "sm": "/img/web/sites-10-2025-08-nz-marine-ia-recognised-member-sm.webp",
+      "w": 1920,
+      "h": 1165,
+      "orientation": "landscape",
+      "area": 2236800,
+      "name": "NZ_Marine_IA_Recognised_Member"
+    },
+    {
+      "slug": "2026-02-dominic-lowe-wayfinder-yachts",
+      "lg": "/img/web/2026-02-dominic-lowe-wayfinder-yachts-lg.webp",
+      "sm": "/img/web/2026-02-dominic-lowe-wayfinder-yachts-sm.webp",
+      "w": 1603,
+      "h": 1390,
+      "orientation": "landscape",
+      "area": 2228170,
+      "name": "Dominic-Lowe-wayfinder-yachts"
+    },
+    {
+      "slug": "2023-06-boat-with-poles-scaled-1",
+      "lg": "/img/web/2023-06-boat-with-poles-scaled-1-lg.webp",
+      "sm": "/img/web/2023-06-boat-with-poles-scaled-1-sm.webp",
+      "w": 1920,
+      "h": 1153,
+      "orientation": "landscape",
+      "area": 2213760,
+      "name": "Boat-with-poles-scaled-1"
+    },
+    {
+      "slug": "2019-01-2019-hutchwilco-show-prize",
+      "lg": "/img/web/2019-01-2019-hutchwilco-show-prize-lg.webp",
+      "sm": "/img/web/2019-01-2019-hutchwilco-show-prize-sm.webp",
+      "w": 1920,
+      "h": 1152,
+      "orientation": "landscape",
+      "area": 2211840,
+      "name": "2019-Hutchwilco-show-prize"
+    },
+    {
+      "slug": "2022-03-deo-cervante",
+      "lg": "/img/web/2022-03-deo-cervante-lg.webp",
+      "sm": "/img/web/2022-03-deo-cervante-sm.webp",
+      "w": 1920,
+      "h": 1143,
+      "orientation": "landscape",
+      "area": 2194560,
+      "name": "Deo-Cervante"
+    },
+    {
+      "slug": "2020-11-stabi-2250wt-fiordland",
+      "lg": "/img/web/2020-11-stabi-2250wt-fiordland-lg.webp",
+      "sm": "/img/web/2020-11-stabi-2250wt-fiordland-sm.webp",
+      "w": 1920,
+      "h": 1107,
+      "orientation": "landscape",
+      "area": 2125440,
+      "name": "Stabi_2250WT_Fiordland"
+    },
+    {
+      "slug": "2019-11-propspeed-airmar",
+      "lg": "/img/web/2019-11-propspeed-airmar-lg.webp",
+      "sm": "/img/web/2019-11-propspeed-airmar-sm.webp",
+      "w": 1920,
+      "h": 1103,
+      "orientation": "landscape",
+      "area": 2117760,
+      "name": "Propspeed-Airmar"
+    },
+    {
+      "slug": "2019-04-nzmarine-compstsito-lrg",
+      "lg": "/img/web/2019-04-nzmarine-compstsito-lrg-lg.webp",
+      "sm": "/img/web/2019-04-nzmarine-compstsito-lrg-sm.webp",
+      "w": 1772,
+      "h": 1191,
+      "orientation": "landscape",
+      "area": 2110452,
+      "name": "NZMarine-CompstsITO-LRG"
+    },
+    {
+      "slug": "2025-05-tectrax-launcher",
+      "lg": "/img/web/2025-05-tectrax-launcher-lg.webp",
+      "sm": "/img/web/2025-05-tectrax-launcher-sm.webp",
+      "w": 1676,
+      "h": 1257,
+      "orientation": "landscape",
+      "area": 2106732,
+      "name": "Tectrax-launcher"
+    },
+    {
+      "slug": "2021-10-blackdog-cats",
+      "lg": "/img/web/2021-10-blackdog-cats-lg.webp",
+      "sm": "/img/web/2021-10-blackdog-cats-sm.webp",
+      "w": 1920,
+      "h": 1097,
+      "orientation": "landscape",
+      "area": 2106240,
+      "name": "Blackdog-Cats"
+    },
+    {
+      "slug": "2020-08-hamjet-turkish-cg",
+      "lg": "/img/web/2020-08-hamjet-turkish-cg-lg.webp",
+      "sm": "/img/web/2020-08-hamjet-turkish-cg-sm.webp",
+      "w": 1920,
+      "h": 1080,
+      "orientation": "landscape",
+      "area": 2073600,
+      "name": "Hamjet-Turkish-CG"
+    },
+    {
+      "slug": "2021-11-2750-ultra-centrecab",
+      "lg": "/img/web/2021-11-2750-ultra-centrecab-lg.webp",
+      "sm": "/img/web/2021-11-2750-ultra-centrecab-sm.webp",
+      "w": 1920,
+      "h": 1080,
+      "orientation": "landscape",
+      "area": 2073600,
+      "name": "2750-Ultra-Centrecab"
+    },
+    {
+      "slug": "2024-01-yamaha-350",
+      "lg": "/img/web/2024-01-yamaha-350-lg.webp",
+      "sm": "/img/web/2024-01-yamaha-350-sm.webp",
+      "w": 1920,
+      "h": 1080,
+      "orientation": "landscape",
+      "area": 2073600,
+      "name": "Yamaha-350"
+    },
+    {
+      "slug": "2026-01-boat-launcher-launching",
+      "lg": "/img/web/2026-01-boat-launcher-launching-lg.webp",
+      "sm": "/img/web/2026-01-boat-launcher-launching-sm.webp",
+      "w": 1920,
+      "h": 1080,
+      "orientation": "landscape",
+      "area": 2073600,
+      "name": "Boat-Launcher-Launching"
+    },
+    {
+      "slug": "2026-02-flir-lb",
+      "lg": "/img/web/2026-02-flir-lb-lg.webp",
+      "sm": "/img/web/2026-02-flir-lb-sm.webp",
+      "w": 1920,
+      "h": 1080,
+      "orientation": "landscape",
+      "area": 2073600,
+      "name": "FLIR-LB"
+    },
+    {
+      "slug": "sites-10-2026-03-ev-maritime-evm200-electric-ferry-dji-0685",
+      "lg": "/img/web/sites-10-2026-03-ev-maritime-evm200-electric-ferry-dji-0685-lg.webp",
+      "sm": "/img/web/sites-10-2026-03-ev-maritime-evm200-electric-ferry-dji-0685-sm.webp",
+      "w": 1920,
+      "h": 1080,
+      "orientation": "landscape",
+      "area": 2073600,
+      "name": "EV-Maritime-EVM200-Electric-Ferry-DJI_0685"
+    },
+    {
+      "slug": "2020-10-haines-hunter-oct-20",
+      "lg": "/img/web/2020-10-haines-hunter-oct-20-lg.webp",
+      "sm": "/img/web/2020-10-haines-hunter-oct-20-sm.webp",
+      "w": 1772,
+      "h": 1158,
+      "orientation": "landscape",
+      "area": 2051976,
+      "name": "Haines-Hunter-Oct-20"
+    },
+    {
+      "slug": "2025-09-zerojet-ab",
+      "lg": "/img/web/2025-09-zerojet-ab-lg.webp",
+      "sm": "/img/web/2025-09-zerojet-ab-sm.webp",
+      "w": 1884,
+      "h": 1059,
+      "orientation": "landscape",
+      "area": 1995156,
+      "name": "Zerojet-AB"
+    },
+    {
+      "slug": "2022-04-viking-profish-reload-prize",
+      "lg": "/img/web/2022-04-viking-profish-reload-prize-lg.webp",
+      "sm": "/img/web/2022-04-viking-profish-reload-prize-sm.webp",
+      "w": 1920,
+      "h": 1012,
+      "orientation": "landscape",
+      "area": 1943040,
+      "name": "Viking-Profish-Reload-prize"
+    },
+    {
+      "slug": "2021-11-lighthouse-3-16-hvar",
+      "lg": "/img/web/2021-11-lighthouse-3-16-hvar-lg.webp",
+      "sm": "/img/web/2021-11-lighthouse-3-16-hvar-sm.webp",
+      "w": 1920,
+      "h": 1005,
+      "orientation": "landscape",
+      "area": 1929600,
+      "name": "LightHouse-3.16-Hvar"
+    },
+    {
+      "slug": "2022-08-surteess-fishing-comp-2023",
+      "lg": "/img/web/2022-08-surteess-fishing-comp-2023-lg.webp",
+      "sm": "/img/web/2022-08-surteess-fishing-comp-2023-sm.webp",
+      "w": 1920,
+      "h": 1005,
+      "orientation": "landscape",
+      "area": 1929600,
+      "name": "Surteess-fishing-comp-2023"
+    },
+    {
+      "slug": "2021-04-woodbine-marine",
+      "lg": "/img/web/2021-04-woodbine-marine-lg.webp",
+      "sm": "/img/web/2021-04-woodbine-marine-sm.webp",
+      "w": 1920,
+      "h": 1004,
+      "orientation": "landscape",
+      "area": 1927680,
+      "name": "Woodbine-Marine"
+    },
+    {
+      "slug": "2019-10-lb-show-event-oct-2019",
+      "lg": "/img/web/2019-10-lb-show-event-oct-2019-lg.webp",
+      "sm": "/img/web/2019-10-lb-show-event-oct-2019-sm.webp",
+      "w": 1920,
+      "h": 1003,
+      "orientation": "landscape",
+      "area": 1925760,
+      "name": "LB-show-event-Oct-2019"
+    },
+    {
+      "slug": "2024-10-new-zealand-built-salthouse-coach-boats-have-been-an-integral-feature-of",
+      "lg": "/img/web/2024-10-new-zealand-built-salthouse-coach-boats-have-been-an-integral-feature-of-lg.webp",
+      "sm": "/img/web/2024-10-new-zealand-built-salthouse-coach-boats-have-been-an-integral-feature-of-sm.webp",
+      "w": 1600,
+      "h": 1200,
+      "orientation": "landscape",
+      "area": 1920000,
+      "name": "New-Zealand-built-Salthouse-Coach-boats-have-been-an-integral-feature-of-the-Cup"
+    },
+    {
+      "slug": "2025-09-tom-ritchie-and-blair-atl",
+      "lg": "/img/web/2025-09-tom-ritchie-and-blair-atl-lg.webp",
+      "sm": "/img/web/2025-09-tom-ritchie-and-blair-atl-sm.webp",
+      "w": 1200,
+      "h": 1600,
+      "orientation": "landscape",
+      "area": 1920000,
+      "name": "Tom-Ritchie-and-Blair-ATL"
+    },
+    {
+      "slug": "sites-10-2023-11-358121366-695274895944625-4625907207776739006-n",
+      "lg": "/img/web/sites-10-2023-11-358121366-695274895944625-4625907207776739006-n-lg.webp",
+      "sm": "/img/web/sites-10-2023-11-358121366-695274895944625-4625907207776739006-n-sm.webp",
+      "w": 1365,
+      "h": 1365,
+      "orientation": "square",
+      "area": 1863225,
+      "name": "358121366_695274895944625_4625907207776739006_n"
+    },
+    {
+      "slug": "2021-02-hutchwilco-coastguard-small",
+      "lg": "/img/web/2021-02-hutchwilco-coastguard-small-lg.webp",
+      "sm": "/img/web/2021-02-hutchwilco-coastguard-small-sm.webp",
+      "w": 1920,
+      "h": 970,
+      "orientation": "landscape",
+      "area": 1862400,
+      "name": "Hutchwilco-Coastguard-small"
+    },
+    {
+      "slug": "sites-10-2023-02-nz-marine-ia-jpeg-scaled",
+      "lg": "/img/web/sites-10-2023-02-nz-marine-ia-jpeg-scaled-lg.webp",
+      "sm": "/img/web/sites-10-2023-02-nz-marine-ia-jpeg-scaled-sm.webp",
+      "w": 1920,
+      "h": 962,
+      "orientation": "landscape",
+      "area": 1847040,
+      "name": "NZ_Marine_IA_JPEG-scaled"
+    },
+    {
+      "slug": "sites-10-2023-02-nz-marine-ia-jpeg",
+      "lg": "/img/web/sites-10-2023-02-nz-marine-ia-jpeg-lg.webp",
+      "sm": "/img/web/sites-10-2023-02-nz-marine-ia-jpeg-sm.webp",
+      "w": 1920,
+      "h": 962,
+      "orientation": "landscape",
+      "area": 1847040,
+      "name": "NZ_Marine_IA_JPEG"
+    },
+    {
+      "slug": "2022-03-marine-biosecurity-seminar-series-600x300px-copy-small",
+      "lg": "/img/web/2022-03-marine-biosecurity-seminar-series-600x300px-copy-small-lg.webp",
+      "sm": "/img/web/2022-03-marine-biosecurity-seminar-series-600x300px-copy-small-sm.webp",
+      "w": 1920,
+      "h": 960,
+      "orientation": "landscape",
+      "area": 1843200,
+      "name": "Marine_biosecurity_Seminar_Series_600x300px-copy-small"
+    },
+    {
+      "slug": "2020-07-lb-website",
+      "lg": "/img/web/2020-07-lb-website-lg.webp",
+      "sm": "/img/web/2020-07-lb-website-sm.webp",
+      "w": 1920,
+      "h": 958,
+      "orientation": "landscape",
+      "area": 1839360,
+      "name": "LB-website"
+    },
+    {
+      "slug": "sites-10-2023-12-sy-welcome2023-mc-1076",
+      "lg": "/img/web/sites-10-2023-12-sy-welcome2023-mc-1076-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-sy-welcome2023-mc-1076-sm.webp",
+      "w": 1920,
+      "h": 956,
+      "orientation": "landscape",
+      "area": 1835520,
+      "name": "SY_Welcome2023_MC_1076"
+    },
+    {
+      "slug": "2019-11-rayglass-new-website",
+      "lg": "/img/web/2019-11-rayglass-new-website-lg.webp",
+      "sm": "/img/web/2019-11-rayglass-new-website-sm.webp",
+      "w": 1878,
+      "h": 976,
+      "orientation": "landscape",
+      "area": 1832928,
+      "name": "Rayglass-new-website"
+    },
+    {
+      "slug": "sites-10-2025-10-image",
+      "lg": "/img/web/sites-10-2025-10-image-lg.webp",
+      "sm": "/img/web/sites-10-2025-10-image-sm.webp",
+      "w": 1920,
+      "h": 948,
+      "orientation": "landscape",
+      "area": 1820160,
+      "name": "image"
+    },
+    {
+      "slug": "2020-08-haines-hunter-august-2020",
+      "lg": "/img/web/2020-08-haines-hunter-august-2020-lg.webp",
+      "sm": "/img/web/2020-08-haines-hunter-august-2020-sm.webp",
+      "w": 1920,
+      "h": 939,
+      "orientation": "landscape",
+      "area": 1802880,
+      "name": "Haines-Hunter-August-2020"
+    },
+    {
+      "slug": "2020-07-dartmouth",
+      "lg": "/img/web/2020-07-dartmouth-lg.webp",
+      "sm": "/img/web/2020-07-dartmouth-sm.webp",
+      "w": 1920,
+      "h": 914,
+      "orientation": "landscape",
+      "area": 1754880,
+      "name": "Dartmouth"
+    },
+    {
+      "slug": "2019-12-hyundai",
+      "lg": "/img/web/2019-12-hyundai-lg.webp",
+      "sm": "/img/web/2019-12-hyundai-sm.webp",
+      "w": 1600,
+      "h": 1083,
+      "orientation": "landscape",
+      "area": 1732800,
+      "name": "Hyundai"
+    },
+    {
+      "slug": "2021-11-nz-at-mets",
+      "lg": "/img/web/2021-11-nz-at-mets-lg.webp",
+      "sm": "/img/web/2021-11-nz-at-mets-sm.webp",
+      "w": 1920,
+      "h": 898,
+      "orientation": "landscape",
+      "area": 1724160,
+      "name": "NZ-at-METS"
+    },
+    {
+      "slug": "2021-10-admiral-boats",
+      "lg": "/img/web/2021-10-admiral-boats-lg.webp",
+      "sm": "/img/web/2021-10-admiral-boats-sm.webp",
+      "w": 1440,
+      "h": 1152,
+      "orientation": "landscape",
+      "area": 1658880,
+      "name": "Admiral-Boats"
+    },
+    {
+      "slug": "2021-07-superyacht-fishing-cmp-1",
+      "lg": "/img/web/2021-07-superyacht-fishing-cmp-1-lg.webp",
+      "sm": "/img/web/2021-07-superyacht-fishing-cmp-1-sm.webp",
+      "w": 1280,
+      "h": 1280,
+      "orientation": "square",
+      "area": 1638400,
+      "name": "Superyacht-fishing-cmp-1"
+    },
+    {
+      "slug": "2020-06-smarttune-set-of-4",
+      "lg": "/img/web/2020-06-smarttune-set-of-4-lg.webp",
+      "sm": "/img/web/2020-06-smarttune-set-of-4-sm.webp",
+      "w": 1920,
+      "h": 822,
+      "orientation": "landscape",
+      "area": 1578240,
+      "name": "smarttune-set-of-4"
+    },
+    {
+      "slug": "2021-08-cliff-schick-e1630014266835",
+      "lg": "/img/web/2021-08-cliff-schick-e1630014266835-lg.webp",
+      "sm": "/img/web/2021-08-cliff-schick-e1630014266835-sm.webp",
+      "w": 1537,
+      "h": 1017,
+      "orientation": "landscape",
+      "area": 1563129,
+      "name": "Cliff-Schick-e1630014266835"
+    },
+    {
+      "slug": "2022-01-pasifika-collective-jan-2022",
+      "lg": "/img/web/2022-01-pasifika-collective-jan-2022-lg.webp",
+      "sm": "/img/web/2022-01-pasifika-collective-jan-2022-sm.webp",
+      "w": 1200,
+      "h": 1285,
+      "orientation": "square",
+      "area": 1542000,
+      "name": "Pasifika-Collective-Jan-2022"
+    },
+    {
+      "slug": "2024-06-lb-e-propulsion-1",
+      "lg": "/img/web/2024-06-lb-e-propulsion-1-lg.webp",
+      "sm": "/img/web/2024-06-lb-e-propulsion-1-sm.webp",
+      "w": 1688,
+      "h": 907,
+      "orientation": "landscape",
+      "area": 1531016,
+      "name": "LB-E-Propulsion-1"
+    },
+    {
+      "slug": "2019-12-youth-ac",
+      "lg": "/img/web/2019-12-youth-ac-lg.webp",
+      "sm": "/img/web/2019-12-youth-ac-sm.webp",
+      "w": 1200,
+      "h": 1200,
+      "orientation": "square",
+      "area": 1440000,
+      "name": "Youth-AC"
+    },
+    {
+      "slug": "2024-09-whangarei-marine-festival",
+      "lg": "/img/web/2024-09-whangarei-marine-festival-lg.webp",
+      "sm": "/img/web/2024-09-whangarei-marine-festival-sm.webp",
+      "w": 1200,
+      "h": 1200,
+      "orientation": "square",
+      "area": 1440000,
+      "name": "Whangarei-Marine-Festival"
+    },
+    {
+      "slug": "sites-10-2023-11-355701866-687991426672972-3575255601082755134-n",
+      "lg": "/img/web/sites-10-2023-11-355701866-687991426672972-3575255601082755134-n-lg.webp",
+      "sm": "/img/web/sites-10-2023-11-355701866-687991426672972-3575255601082755134-n-sm.webp",
+      "w": 1600,
+      "h": 900,
+      "orientation": "landscape",
+      "area": 1440000,
+      "name": "355701866_687991426672972_3575255601082755134_n"
+    },
+    {
+      "slug": "2019-04-yamaha-f20",
+      "lg": "/img/web/2019-04-yamaha-f20-lg.webp",
+      "sm": "/img/web/2019-04-yamaha-f20-sm.webp",
+      "w": 860,
+      "h": 1668,
+      "orientation": "portrait",
+      "area": 1434480,
+      "name": "Yamaha-F20"
+    },
+    {
+      "slug": "2024-07-ev-maritime-contract-signing-with-angel-island-tiburon-ferry-july-12-202",
+      "lg": "/img/web/2024-07-ev-maritime-contract-signing-with-angel-island-tiburon-ferry-july-12-202-lg.webp",
+      "sm": "/img/web/2024-07-ev-maritime-contract-signing-with-angel-island-tiburon-ferry-july-12-202-sm.webp",
+      "w": 1200,
+      "h": 1194,
+      "orientation": "square",
+      "area": 1432800,
+      "name": "EV-Maritime-contract-signing-with-Angel-Island-Tiburon-Ferry-July-12-2024"
+    },
+    {
+      "slug": "2026-02-queenstown",
+      "lg": "/img/web/2026-02-queenstown-lg.webp",
+      "sm": "/img/web/2026-02-queenstown-sm.webp",
+      "w": 1854,
+      "h": 766,
+      "orientation": "landscape",
+      "area": 1420164,
+      "name": "Queenstown"
+    },
+    {
+      "slug": "2022-10-spinlock-colours",
+      "lg": "/img/web/2022-10-spinlock-colours-lg.webp",
+      "sm": "/img/web/2022-10-spinlock-colours-sm.webp",
+      "w": 1920,
+      "h": 729,
+      "orientation": "landscape",
+      "area": 1399680,
+      "name": "Spinlock-colours"
+    },
+    {
+      "slug": "sites-10-2023-12-north-sails",
+      "lg": "/img/web/sites-10-2023-12-north-sails-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-north-sails-sm.webp",
+      "w": 1181,
+      "h": 1181,
+      "orientation": "square",
+      "area": 1394761,
+      "name": "North-Sails"
+    },
+    {
+      "slug": "2021-11-barracuda-boat",
+      "lg": "/img/web/2021-11-barracuda-boat-lg.webp",
+      "sm": "/img/web/2021-11-barracuda-boat-sm.webp",
+      "w": 1440,
+      "h": 960,
+      "orientation": "landscape",
+      "area": 1382400,
+      "name": "Barracuda-Boat"
+    },
+    {
+      "slug": "2021-10-stabicraft-manta",
+      "lg": "/img/web/2021-10-stabicraft-manta-lg.webp",
+      "sm": "/img/web/2021-10-stabicraft-manta-sm.webp",
+      "w": 1050,
+      "h": 1307,
+      "orientation": "portrait",
+      "area": 1372350,
+      "name": "Stabicraft-Manta"
+    },
+    {
+      "slug": "sites-10-2026-05-jeff-brown-12871-scaled-e1778462830556",
+      "lg": "/img/web/sites-10-2026-05-jeff-brown-12871-scaled-e1778462830556-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-jeff-brown-12871-scaled-e1778462830556-sm.webp",
+      "w": 1920,
+      "h": 714,
+      "orientation": "landscape",
+      "area": 1370880,
+      "name": "Jeff_Brown-12871-scaled-e1778462830556"
+    },
+    {
+      "slug": "2021-06-maxar-zenith-tecnica",
+      "lg": "/img/web/2021-06-maxar-zenith-tecnica-lg.webp",
+      "sm": "/img/web/2021-06-maxar-zenith-tecnica-sm.webp",
+      "w": 1428,
+      "h": 953,
+      "orientation": "landscape",
+      "area": 1360884,
+      "name": "Maxar-Zenith-Tecnica"
+    },
+    {
+      "slug": "2021-11-rayglass-viva-tender-8",
+      "lg": "/img/web/2021-11-rayglass-viva-tender-8-lg.webp",
+      "sm": "/img/web/2021-11-rayglass-viva-tender-8-sm.webp",
+      "w": 1365,
+      "h": 910,
+      "orientation": "landscape",
+      "area": 1242150,
+      "name": "RAYGLASS_VIVA-TENDER-8"
+    },
+    {
+      "slug": "2025-10-spinlock-bags",
+      "lg": "/img/web/2025-10-spinlock-bags-lg.webp",
+      "sm": "/img/web/2025-10-spinlock-bags-sm.webp",
+      "w": 1200,
+      "h": 1000,
+      "orientation": "landscape",
+      "area": 1200000,
+      "name": "Spinlock-bags"
+    },
+    {
+      "slug": "2021-02-hp-watermaker",
+      "lg": "/img/web/2021-02-hp-watermaker-lg.webp",
+      "sm": "/img/web/2021-02-hp-watermaker-sm.webp",
+      "w": 1402,
+      "h": 855,
+      "orientation": "landscape",
+      "area": 1198710,
+      "name": "HP-Watermaker"
+    },
+    {
+      "slug": "2021-11-6amid",
+      "lg": "/img/web/2021-11-6amid-lg.webp",
+      "sm": "/img/web/2021-11-6amid-sm.webp",
+      "w": 1335,
+      "h": 891,
+      "orientation": "landscape",
+      "area": 1189485,
+      "name": "6Amid"
+    },
+    {
+      "slug": "2022-05-you-and-your-family-can-trust",
+      "lg": "/img/web/2022-05-you-and-your-family-can-trust-lg.webp",
+      "sm": "/img/web/2022-05-you-and-your-family-can-trust-sm.webp",
+      "w": 1392,
+      "h": 848,
+      "orientation": "landscape",
+      "area": 1180416,
+      "name": "You-and-your-family-can-trust"
+    },
+    {
+      "slug": "2025-09-lb-new-staff-mbr-1",
+      "lg": "/img/web/2025-09-lb-new-staff-mbr-1-lg.webp",
+      "sm": "/img/web/2025-09-lb-new-staff-mbr-1-sm.webp",
+      "w": 1080,
+      "h": 1080,
+      "orientation": "square",
+      "area": 1166400,
+      "name": "LB-new-staff-mbr-1"
+    },
+    {
+      "slug": "2023-06-island-cruising-tonga",
+      "lg": "/img/web/2023-06-island-cruising-tonga-lg.webp",
+      "sm": "/img/web/2023-06-island-cruising-tonga-sm.webp",
+      "w": 1280,
+      "h": 908,
+      "orientation": "landscape",
+      "area": 1162240,
+      "name": "Island-Cruising-Tonga"
+    },
+    {
+      "slug": "2024-06-surtees-sales-yard-1",
+      "lg": "/img/web/2024-06-surtees-sales-yard-1-lg.webp",
+      "sm": "/img/web/2024-06-surtees-sales-yard-1-sm.webp",
+      "w": 1920,
+      "h": 595,
+      "orientation": "landscape",
+      "area": 1142400,
+      "name": "Surtees-sales-yard-1"
+    },
+    {
+      "slug": "2019-09-enl-comm-fishing",
+      "lg": "/img/web/2019-09-enl-comm-fishing-lg.webp",
+      "sm": "/img/web/2019-09-enl-comm-fishing-sm.webp",
+      "w": 1264,
+      "h": 871,
+      "orientation": "landscape",
+      "area": 1100944,
+      "name": "ENL-Comm-Fishing"
+    },
+    {
+      "slug": "2020-06-edge-ahead-still-mike-doyle",
+      "lg": "/img/web/2020-06-edge-ahead-still-mike-doyle-lg.webp",
+      "sm": "/img/web/2020-06-edge-ahead-still-mike-doyle-sm.webp",
+      "w": 1393,
+      "h": 790,
+      "orientation": "landscape",
+      "area": 1100470,
+      "name": "Edge-Ahead-still-Mike-Doyle"
+    },
+    {
+      "slug": "sites-10-2016-07-nz-marine-slider-2-1",
+      "lg": "/img/web/sites-10-2016-07-nz-marine-slider-2-1-lg.webp",
+      "sm": "/img/web/sites-10-2016-07-nz-marine-slider-2-1-sm.webp",
+      "w": 1680,
+      "h": 650,
+      "orientation": "landscape",
+      "area": 1092000,
+      "name": "NZ_Marine_slider_2-1"
+    },
+    {
+      "slug": "2023-06-hullwell-pic",
+      "lg": "/img/web/2023-06-hullwell-pic-lg.webp",
+      "sm": "/img/web/2023-06-hullwell-pic-sm.webp",
+      "w": 1280,
+      "h": 853,
+      "orientation": "landscape",
+      "area": 1091840,
+      "name": "Hullwell-pic"
+    },
+    {
+      "slug": "2025-09-tom-ritchie-and-blair-atl-rotated",
+      "lg": "/img/web/2025-09-tom-ritchie-and-blair-atl-rotated-lg.webp",
+      "sm": "/img/web/2025-09-tom-ritchie-and-blair-atl-rotated-sm.webp",
+      "w": 900,
+      "h": 1200,
+      "orientation": "portrait",
+      "area": 1080000,
+      "name": "Tom-Ritchie-and-Blair-ATL-rotated"
+    },
+    {
+      "slug": "2021-06-mollymawk-at-sea",
+      "lg": "/img/web/2021-06-mollymawk-at-sea-lg.webp",
+      "sm": "/img/web/2021-06-mollymawk-at-sea-sm.webp",
+      "w": 1540,
+      "h": 700,
+      "orientation": "landscape",
+      "area": 1078000,
+      "name": "Mollymawk-at-sea"
+    },
+    {
+      "slug": "2024-06-ow-vessel-birdseye-view",
+      "lg": "/img/web/2024-06-ow-vessel-birdseye-view-lg.webp",
+      "sm": "/img/web/2024-06-ow-vessel-birdseye-view-sm.webp",
+      "w": 1102,
+      "h": 962,
+      "orientation": "square",
+      "area": 1060124,
+      "name": "OW_Vessel-Birdseye-view"
+    },
+    {
+      "slug": "sites-10-2023-12-babock",
+      "lg": "/img/web/sites-10-2023-12-babock-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-babock-sm.webp",
+      "w": 1000,
+      "h": 1000,
+      "orientation": "square",
+      "area": 1000000,
+      "name": "Babock"
+    },
+    {
+      "slug": "2024-09-mc-cup-nor",
+      "lg": "/img/web/2024-09-mc-cup-nor-lg.webp",
+      "sm": "/img/web/2024-09-mc-cup-nor-sm.webp",
+      "w": 1200,
+      "h": 824,
+      "orientation": "landscape",
+      "area": 988800,
+      "name": "MC-Cup-NOR"
+    },
+    {
+      "slug": "2022-05-circa-supreme-winner",
+      "lg": "/img/web/2022-05-circa-supreme-winner-lg.webp",
+      "sm": "/img/web/2022-05-circa-supreme-winner-sm.webp",
+      "w": 1217,
+      "h": 811,
+      "orientation": "landscape",
+      "area": 986987,
+      "name": "Circa-supreme-winner"
+    },
+    {
+      "slug": "2025-09-kraken-european-yacht-of-the-year-2026-2",
+      "lg": "/img/web/2025-09-kraken-european-yacht-of-the-year-2026-2-lg.webp",
+      "sm": "/img/web/2025-09-kraken-european-yacht-of-the-year-2026-2-sm.webp",
+      "w": 824,
+      "h": 1194,
+      "orientation": "portrait",
+      "area": 983856,
+      "name": "Kraken-European-Yacht-of-the-Year-2026-2"
+    },
+    {
+      "slug": "2024-03-rob-w-and-grads-1",
+      "lg": "/img/web/2024-03-rob-w-and-grads-1-lg.webp",
+      "sm": "/img/web/2024-03-rob-w-and-grads-1-sm.webp",
+      "w": 1200,
+      "h": 819,
+      "orientation": "landscape",
+      "area": 982800,
+      "name": "Rob-W-and-grads-1"
+    },
+    {
+      "slug": "2020-06-built-boats-tuff",
+      "lg": "/img/web/2020-06-built-boats-tuff-lg.webp",
+      "sm": "/img/web/2020-06-built-boats-tuff-sm.webp",
+      "w": 1136,
+      "h": 853,
+      "orientation": "landscape",
+      "area": 969008,
+      "name": "Built-Boats-Tuff"
+    },
+    {
+      "slug": "2020-01-yd-al-duhail",
+      "lg": "/img/web/2020-01-yd-al-duhail-lg.webp",
+      "sm": "/img/web/2020-01-yd-al-duhail-sm.webp",
+      "w": 1200,
+      "h": 800,
+      "orientation": "landscape",
+      "area": 960000,
+      "name": "YD-Al-Duhail"
+    },
+    {
+      "slug": "2020-09-auckland-on-water-boat-show-live-sail-die27",
+      "lg": "/img/web/2020-09-auckland-on-water-boat-show-live-sail-die27-lg.webp",
+      "sm": "/img/web/2020-09-auckland-on-water-boat-show-live-sail-die27-sm.webp",
+      "w": 1200,
+      "h": 800,
+      "orientation": "landscape",
+      "area": 960000,
+      "name": "Auckland-On-Water-Boat-Show-Live-Sail-Die27"
+    },
+    {
+      "slug": "2020-10-waikawa-marina",
+      "lg": "/img/web/2020-10-waikawa-marina-lg.webp",
+      "sm": "/img/web/2020-10-waikawa-marina-sm.webp",
+      "w": 1200,
+      "h": 800,
+      "orientation": "landscape",
+      "area": 960000,
+      "name": "Waikawa-Marina"
+    },
+    {
+      "slug": "2025-09-coastal-classic-lsd",
+      "lg": "/img/web/2025-09-coastal-classic-lsd-lg.webp",
+      "sm": "/img/web/2025-09-coastal-classic-lsd-sm.webp",
+      "w": 1200,
+      "h": 800,
+      "orientation": "landscape",
+      "area": 960000,
+      "name": "Coastal_Classic_LSD"
+    },
+    {
+      "slug": "2026-02-wooden-boat-fest-2026",
+      "lg": "/img/web/2026-02-wooden-boat-fest-2026-lg.webp",
+      "sm": "/img/web/2026-02-wooden-boat-fest-2026-sm.webp",
+      "w": 1200,
+      "h": 800,
+      "orientation": "landscape",
+      "area": 960000,
+      "name": "Wooden-Boat-Fest-2026"
+    },
+    {
+      "slug": "sites-10-2026-05-skytower-and-vec-vibrant-scaled-e1778467738247",
+      "lg": "/img/web/sites-10-2026-05-skytower-and-vec-vibrant-scaled-e1778467738247-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-skytower-and-vec-vibrant-scaled-e1778467738247-sm.webp",
+      "w": 1920,
+      "h": 490,
+      "orientation": "landscape",
+      "area": 940800,
+      "name": "Skytower-and-VEC-vibrant-scaled-e1778467738247"
+    },
+    {
+      "slug": "2019-04-john-mcgettigan-whisper-power-left-and-jasper-hannay-eal-right-e15546774",
+      "lg": "/img/web/2019-04-john-mcgettigan-whisper-power-left-and-jasper-hannay-eal-right-e15546774-lg.webp",
+      "sm": "/img/web/2019-04-john-mcgettigan-whisper-power-left-and-jasper-hannay-eal-right-e15546774-sm.webp",
+      "w": 920,
+      "h": 1018,
+      "orientation": "square",
+      "area": 936560,
+      "name": "John-McGettigan-Whisper-Power-left-and-Jasper-Hannay-EAL-right-e1554677436277"
+    },
+    {
+      "slug": "sites-10-2026-05-jeff-brown-12871-scaled-e1778464129936",
+      "lg": "/img/web/sites-10-2026-05-jeff-brown-12871-scaled-e1778464129936-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-jeff-brown-12871-scaled-e1778464129936-sm.webp",
+      "w": 1920,
+      "h": 486,
+      "orientation": "landscape",
+      "area": 933120,
+      "name": "Jeff_Brown-12871-scaled-e1778464129936"
+    },
+    {
+      "slug": "2025-03-mast-campus-nzmarine",
+      "lg": "/img/web/2025-03-mast-campus-nzmarine-lg.webp",
+      "sm": "/img/web/2025-03-mast-campus-nzmarine-sm.webp",
+      "w": 1200,
+      "h": 757,
+      "orientation": "landscape",
+      "area": 908400,
+      "name": "MAST-Campus-NZMarine"
+    },
+    {
+      "slug": "2021-09-tristram-marine",
+      "lg": "/img/web/2021-09-tristram-marine-lg.webp",
+      "sm": "/img/web/2021-09-tristram-marine-sm.webp",
+      "w": 1196,
+      "h": 758,
+      "orientation": "landscape",
+      "area": 906568,
+      "name": "Tristram-Marine"
+    },
+    {
+      "slug": "2025-08-boatgear-tenob",
+      "lg": "/img/web/2025-08-boatgear-tenob-lg.webp",
+      "sm": "/img/web/2025-08-boatgear-tenob-sm.webp",
+      "w": 1046,
+      "h": 848,
+      "orientation": "landscape",
+      "area": 887008,
+      "name": "Boatgear-Tenob"
+    },
+    {
+      "slug": "2022-08-front-cover-image-2022",
+      "lg": "/img/web/2022-08-front-cover-image-2022-lg.webp",
+      "sm": "/img/web/2022-08-front-cover-image-2022-sm.webp",
+      "w": 1107,
+      "h": 792,
+      "orientation": "landscape",
+      "area": 876744,
+      "name": "Front-cover-image-2022"
+    },
+    {
+      "slug": "2020-05-al-duhail-delivered-may-2020",
+      "lg": "/img/web/2020-05-al-duhail-delivered-may-2020-lg.webp",
+      "sm": "/img/web/2020-05-al-duhail-delivered-may-2020-sm.webp",
+      "w": 1234,
+      "h": 687,
+      "orientation": "landscape",
+      "area": 847758,
+      "name": "AL-Duhail-delivered-May-2020"
+    },
+    {
+      "slug": "2023-09-mast-vr",
+      "lg": "/img/web/2023-09-mast-vr-lg.webp",
+      "sm": "/img/web/2023-09-mast-vr-sm.webp",
+      "w": 900,
+      "h": 932,
+      "orientation": "square",
+      "area": 838800,
+      "name": "MAST-VR"
+    },
+    {
+      "slug": "sites-10-2023-02-slide01",
+      "lg": "/img/web/sites-10-2023-02-slide01-lg.webp",
+      "sm": "/img/web/sites-10-2023-02-slide01-sm.webp",
+      "w": 1680,
+      "h": 491,
+      "orientation": "landscape",
+      "area": 824880,
+      "name": "slide01"
+    },
+    {
+      "slug": "sites-10-2023-02-slide03",
+      "lg": "/img/web/sites-10-2023-02-slide03-lg.webp",
+      "sm": "/img/web/sites-10-2023-02-slide03-sm.webp",
+      "w": 1680,
+      "h": 491,
+      "orientation": "landscape",
+      "area": 824880,
+      "name": "slide03"
+    },
+    {
+      "slug": "2024-02-jeff-brown-14849-1-orig-sassafras",
+      "lg": "/img/web/2024-02-jeff-brown-14849-1-orig-sassafras-lg.webp",
+      "sm": "/img/web/2024-02-jeff-brown-14849-1-orig-sassafras-sm.webp",
+      "w": 1100,
+      "h": 748,
+      "orientation": "landscape",
+      "area": 822800,
+      "name": "jeff-brown-14849_1_orig-Sassafras"
+    },
+    {
+      "slug": "2021-10-typhoon-19-foiling-cat-concept-flybridge-option-2-2",
+      "lg": "/img/web/2021-10-typhoon-19-foiling-cat-concept-flybridge-option-2-2-lg.webp",
+      "sm": "/img/web/2021-10-typhoon-19-foiling-cat-concept-flybridge-option-2-2-sm.webp",
+      "w": 1200,
+      "h": 675,
+      "orientation": "landscape",
+      "area": 810000,
+      "name": "Typhoon-19-Foiling-Cat-concept-Flybridge-Option-2-2"
+    },
+    {
+      "slug": "sites-10-2026-05-port-denaranu-marina-image",
+      "lg": "/img/web/sites-10-2026-05-port-denaranu-marina-image-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-port-denaranu-marina-image-sm.webp",
+      "w": 1200,
+      "h": 674,
+      "orientation": "landscape",
+      "area": 808800,
+      "name": "port-denaranu-marina-image"
+    },
+    {
+      "slug": "sites-10-2024-03-millennium-cup-day-2",
+      "lg": "/img/web/sites-10-2024-03-millennium-cup-day-2-lg.webp",
+      "sm": "/img/web/sites-10-2024-03-millennium-cup-day-2-sm.webp",
+      "w": 1089,
+      "h": 737,
+      "orientation": "landscape",
+      "area": 802593,
+      "name": "Millennium-Cup-Day-2"
+    },
+    {
+      "slug": "sites-10-2023-12-anura",
+      "lg": "/img/web/sites-10-2023-12-anura-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-anura-sm.webp",
+      "w": 895,
+      "h": 895,
+      "orientation": "square",
+      "area": 801025,
+      "name": "Anura"
+    },
+    {
+      "slug": "2025-09-scallops",
+      "lg": "/img/web/2025-09-scallops-lg.webp",
+      "sm": "/img/web/2025-09-scallops-sm.webp",
+      "w": 1000,
+      "h": 794,
+      "orientation": "landscape",
+      "area": 794000,
+      "name": "Scallops"
+    },
+    {
+      "slug": "2026-02-map-the-ocean-race-2027-embargo-20260122-1",
+      "lg": "/img/web/2026-02-map-the-ocean-race-2027-embargo-20260122-1-lg.webp",
+      "sm": "/img/web/2026-02-map-the-ocean-race-2027-embargo-20260122-1-sm.webp",
+      "w": 1024,
+      "h": 768,
+      "orientation": "landscape",
+      "area": 786432,
+      "name": "Map-The-Ocean-Race-2027-embargo-20260122-1"
+    },
+    {
+      "slug": "sites-10-2023-12-37south",
+      "lg": "/img/web/sites-10-2023-12-37south-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-37south-sm.webp",
+      "w": 882,
+      "h": 882,
+      "orientation": "square",
+      "area": 777924,
+      "name": "37South"
+    },
+    {
+      "slug": "2020-01-wireless-nation-lifestyle-broadband-nzmarine",
+      "lg": "/img/web/2020-01-wireless-nation-lifestyle-broadband-nzmarine-lg.webp",
+      "sm": "/img/web/2020-01-wireless-nation-lifestyle-broadband-nzmarine-sm.webp",
+      "w": 1200,
+      "h": 628,
+      "orientation": "landscape",
+      "area": 753600,
+      "name": "Wireless-Nation-Lifestyle-Broadband-NZMarine"
+    },
+    {
+      "slug": "2021-11-248362174-4518458318189242-1155184626728187512-n",
+      "lg": "/img/web/2021-11-248362174-4518458318189242-1155184626728187512-n-lg.webp",
+      "sm": "/img/web/2021-11-248362174-4518458318189242-1155184626728187512-n-sm.webp",
+      "w": 1200,
+      "h": 628,
+      "orientation": "landscape",
+      "area": 753600,
+      "name": "248362174_4518458318189242_1155184626728187512_n"
+    },
+    {
+      "slug": "2021-11-nzmarine-jobs-ad-nov-21",
+      "lg": "/img/web/2021-11-nzmarine-jobs-ad-nov-21-lg.webp",
+      "sm": "/img/web/2021-11-nzmarine-jobs-ad-nov-21-sm.webp",
+      "w": 1053,
+      "h": 698,
+      "orientation": "landscape",
+      "area": 734994,
+      "name": "NZMarine-Jobs-ad-Nov-21"
+    },
+    {
+      "slug": "2022-02-davco-lusty-and-blundell",
+      "lg": "/img/web/2022-02-davco-lusty-and-blundell-lg.webp",
+      "sm": "/img/web/2022-02-davco-lusty-and-blundell-sm.webp",
+      "w": 1229,
+      "h": 586,
+      "orientation": "landscape",
+      "area": 720194,
+      "name": "Davco-Lusty-and-Blundell"
+    },
+    {
+      "slug": "2024-02-wooden-boat-festival-poster",
+      "lg": "/img/web/2024-02-wooden-boat-festival-poster-lg.webp",
+      "sm": "/img/web/2024-02-wooden-boat-festival-poster-sm.webp",
+      "w": 710,
+      "h": 1008,
+      "orientation": "portrait",
+      "area": 715680,
+      "name": "Wooden-Boat-Festival-poster"
+    },
+    {
+      "slug": "2021-11-new-tru-design-platsics-building1",
+      "lg": "/img/web/2021-11-new-tru-design-platsics-building1-lg.webp",
+      "sm": "/img/web/2021-11-new-tru-design-platsics-building1-sm.webp",
+      "w": 1024,
+      "h": 697,
+      "orientation": "landscape",
+      "area": 713728,
+      "name": "New-Tru-Design-platsics-Building1"
+    },
+    {
+      "slug": "sites-10-2021-11-new-tru-design-platsics-building1",
+      "lg": "/img/web/sites-10-2021-11-new-tru-design-platsics-building1-lg.webp",
+      "sm": "/img/web/sites-10-2021-11-new-tru-design-platsics-building1-sm.webp",
+      "w": 1024,
+      "h": 697,
+      "orientation": "landscape",
+      "area": 713728,
+      "name": "New-Tru-Design-platsics-Building1"
+    },
+    {
+      "slug": "2023-06-circa-sxv40",
+      "lg": "/img/web/2023-06-circa-sxv40-lg.webp",
+      "sm": "/img/web/2023-06-circa-sxv40-sm.webp",
+      "w": 1280,
+      "h": 556,
+      "orientation": "landscape",
+      "area": 711680,
+      "name": "Circa-SXV40"
+    },
+    {
+      "slug": "2021-11-c-tech",
+      "lg": "/img/web/2021-11-c-tech-lg.webp",
+      "sm": "/img/web/2021-11-c-tech-sm.webp",
+      "w": 1024,
+      "h": 683,
+      "orientation": "landscape",
+      "area": 699392,
+      "name": "C-Tech"
+    },
+    {
+      "slug": "2021-10-stark-trawler5",
+      "lg": "/img/web/2021-10-stark-trawler5-lg.webp",
+      "sm": "/img/web/2021-10-stark-trawler5-sm.webp",
+      "w": 1024,
+      "h": 682,
+      "orientation": "landscape",
+      "area": 698368,
+      "name": "STARK_trawler5"
+    },
+    {
+      "slug": "2020-06-hamiltonjet-qwest-june-2020",
+      "lg": "/img/web/2020-06-hamiltonjet-qwest-june-2020-lg.webp",
+      "sm": "/img/web/2020-06-hamiltonjet-qwest-june-2020-sm.webp",
+      "w": 1000,
+      "h": 698,
+      "orientation": "landscape",
+      "area": 698000,
+      "name": "HamiltonJet-QWest-June-2020"
+    },
+    {
+      "slug": "2021-11-zodiac-cadet1",
+      "lg": "/img/web/2021-11-zodiac-cadet1-lg.webp",
+      "sm": "/img/web/2021-11-zodiac-cadet1-sm.webp",
+      "w": 1024,
+      "h": 680,
+      "orientation": "landscape",
+      "area": 696320,
+      "name": "Zodiac-Cadet1"
+    },
+    {
+      "slug": "sites-10-2024-10-dcnz-2025-2026-cover",
+      "lg": "/img/web/sites-10-2024-10-dcnz-2025-2026-cover-lg.webp",
+      "sm": "/img/web/sites-10-2024-10-dcnz-2025-2026-cover-sm.webp",
+      "w": 937,
+      "h": 742,
+      "orientation": "landscape",
+      "area": 695254,
+      "name": "DCNZ-2025-2026-cover"
+    },
+    {
+      "slug": "sites-10-2024-11-dcnz-2025-2026-cover",
+      "lg": "/img/web/sites-10-2024-11-dcnz-2025-2026-cover-lg.webp",
+      "sm": "/img/web/sites-10-2024-11-dcnz-2025-2026-cover-sm.webp",
+      "w": 937,
+      "h": 742,
+      "orientation": "landscape",
+      "area": 695254,
+      "name": "DCNZ-2025-2026-cover"
+    },
+    {
+      "slug": "sites-10-2024-03-jeff-brown-perseus-3-wins-1",
+      "lg": "/img/web/sites-10-2024-03-jeff-brown-perseus-3-wins-1-lg.webp",
+      "sm": "/img/web/sites-10-2024-03-jeff-brown-perseus-3-wins-1-sm.webp",
+      "w": 1013,
+      "h": 680,
+      "orientation": "landscape",
+      "area": 688840,
+      "name": "Jeff-Brown-Perseus-3-wins-1"
+    },
+    {
+      "slug": "2024-11-see-level-seasickness-relief-in-12-minutes",
+      "lg": "/img/web/2024-11-see-level-seasickness-relief-in-12-minutes-lg.webp",
+      "sm": "/img/web/2024-11-see-level-seasickness-relief-in-12-minutes-sm.webp",
+      "w": 1083,
+      "h": 633,
+      "orientation": "landscape",
+      "area": 685539,
+      "name": "See-LEVEL-Seasickness-relief-in-12-minutes"
+    },
+    {
+      "slug": "sites-10-2024-03-jeff-brown-20998",
+      "lg": "/img/web/sites-10-2024-03-jeff-brown-20998-lg.webp",
+      "sm": "/img/web/sites-10-2024-03-jeff-brown-20998-sm.webp",
+      "w": 1019,
+      "h": 668,
+      "orientation": "landscape",
+      "area": 680692,
+      "name": "Jeff-Brown-20998"
+    },
+    {
+      "slug": "2020-03-nathan-adams",
+      "lg": "/img/web/2020-03-nathan-adams-lg.webp",
+      "sm": "/img/web/2020-03-nathan-adams-sm.webp",
+      "w": 996,
+      "h": 682,
+      "orientation": "landscape",
+      "area": 679272,
+      "name": "Nathan-Adams"
+    },
+    {
+      "slug": "2024-09-boating-buys-tab-aug-2024",
+      "lg": "/img/web/2024-09-boating-buys-tab-aug-2024-lg.webp",
+      "sm": "/img/web/2024-09-boating-buys-tab-aug-2024-sm.webp",
+      "w": 900,
+      "h": 752,
+      "orientation": "landscape",
+      "area": 676800,
+      "name": "Boating-buys-TAB-Aug-2024"
+    },
+    {
+      "slug": "sites-10-2026-03-mets-2025-scaled-e1778454605268",
+      "lg": "/img/web/sites-10-2026-03-mets-2025-scaled-e1778454605268-lg.webp",
+      "sm": "/img/web/sites-10-2026-03-mets-2025-scaled-e1778454605268-sm.webp",
+      "w": 1920,
+      "h": 352,
+      "orientation": "landscape",
+      "area": 675840,
+      "name": "METS-2025-scaled-e1778454605268"
+    },
+    {
+      "slug": "2019-12-furuno-world-cup",
+      "lg": "/img/web/2019-12-furuno-world-cup-lg.webp",
+      "sm": "/img/web/2019-12-furuno-world-cup-sm.webp",
+      "w": 1000,
+      "h": 672,
+      "orientation": "landscape",
+      "area": 672000,
+      "name": "Furuno-world-cup"
+    },
+    {
+      "slug": "sites-10-2018-07-nz-marine-news-summer-2016-cover",
+      "lg": "/img/web/sites-10-2018-07-nz-marine-news-summer-2016-cover-lg.webp",
+      "sm": "/img/web/sites-10-2018-07-nz-marine-news-summer-2016-cover-sm.webp",
+      "w": 679,
+      "h": 977,
+      "orientation": "portrait",
+      "area": 663383,
+      "name": "NZ-Marine-News-Summer-2016-cover"
+    },
+    {
+      "slug": "2021-09-menorquin-42-mediumcrop",
+      "lg": "/img/web/2021-09-menorquin-42-mediumcrop-lg.webp",
+      "sm": "/img/web/2021-09-menorquin-42-mediumcrop-sm.webp",
+      "w": 1160,
+      "h": 560,
+      "orientation": "landscape",
+      "area": 649600,
+      "name": "Menorquin-42-Mediumcrop"
+    },
+    {
+      "slug": "2021-10-14m-sedan-render-2-1160x560-1",
+      "lg": "/img/web/2021-10-14m-sedan-render-2-1160x560-1-lg.webp",
+      "sm": "/img/web/2021-10-14m-sedan-render-2-1160x560-1-sm.webp",
+      "w": 1160,
+      "h": 560,
+      "orientation": "landscape",
+      "area": 649600,
+      "name": "14m-sedan-render-2-1160x560-1"
+    },
+    {
+      "slug": "2021-10-crystal-boat-products-3-1160x560-1",
+      "lg": "/img/web/2021-10-crystal-boat-products-3-1160x560-1-lg.webp",
+      "sm": "/img/web/2021-10-crystal-boat-products-3-1160x560-1-sm.webp",
+      "w": 1160,
+      "h": 560,
+      "orientation": "landscape",
+      "area": 649600,
+      "name": "Crystal-Boat-products-3-1160x560-1"
+    },
+    {
+      "slug": "2021-10-propspeed-riv-1160x560-1",
+      "lg": "/img/web/2021-10-propspeed-riv-1160x560-1-lg.webp",
+      "sm": "/img/web/2021-10-propspeed-riv-1160x560-1-sm.webp",
+      "w": 1160,
+      "h": 560,
+      "orientation": "landscape",
+      "area": 649600,
+      "name": "Propspeed-Riv-1160x560-1"
+    },
+    {
+      "slug": "2021-10-propspeed-riv-1160x560-1-jpeg",
+      "lg": "/img/web/2021-10-propspeed-riv-1160x560-1-jpeg-lg.webp",
+      "sm": "/img/web/2021-10-propspeed-riv-1160x560-1-jpeg-sm.webp",
+      "w": 1160,
+      "h": 560,
+      "orientation": "landscape",
+      "area": 649600,
+      "name": "Propspeed-Riv-1160x560-1.jpeg"
+    },
+    {
+      "slug": "2021-12-image-1160x560-1",
+      "lg": "/img/web/2021-12-image-1160x560-1-lg.webp",
+      "sm": "/img/web/2021-12-image-1160x560-1-sm.webp",
+      "w": 1160,
+      "h": 560,
+      "orientation": "landscape",
+      "area": 649600,
+      "name": "image-1160x560-1"
+    },
+    {
+      "slug": "2020-07-auckland-silo-marina-and-skyline",
+      "lg": "/img/web/2020-07-auckland-silo-marina-and-skyline-lg.webp",
+      "sm": "/img/web/2020-07-auckland-silo-marina-and-skyline-sm.webp",
+      "w": 1030,
+      "h": 628,
+      "orientation": "landscape",
+      "area": 646840,
+      "name": "Auckland-Silo-Marina-and-skyline"
+    },
+    {
+      "slug": "2020-10-nzfn-guide-to-buying-trailerboat",
+      "lg": "/img/web/2020-10-nzfn-guide-to-buying-trailerboat-lg.webp",
+      "sm": "/img/web/2020-10-nzfn-guide-to-buying-trailerboat-sm.webp",
+      "w": 686,
+      "h": 897,
+      "orientation": "portrait",
+      "area": 615342,
+      "name": "NZFN-Guide-to-buying-trailerboat"
+    },
+    {
+      "slug": "2023-06-hamilton-jet-htx",
+      "lg": "/img/web/2023-06-hamilton-jet-htx-lg.webp",
+      "sm": "/img/web/2023-06-hamilton-jet-htx-sm.webp",
+      "w": 917,
+      "h": 671,
+      "orientation": "landscape",
+      "area": 615307,
+      "name": "Hamilton-Jet-HTX"
+    },
+    {
+      "slug": "2021-08-dan-wein",
+      "lg": "/img/web/2021-08-dan-wein-lg.webp",
+      "sm": "/img/web/2021-08-dan-wein-sm.webp",
+      "w": 960,
+      "h": 640,
+      "orientation": "landscape",
+      "area": 614400,
+      "name": "Dan-Wein"
+    },
+    {
+      "slug": "2023-06-hamilton-jet-waterjet",
+      "lg": "/img/web/2023-06-hamilton-jet-waterjet-lg.webp",
+      "sm": "/img/web/2023-06-hamilton-jet-waterjet-sm.webp",
+      "w": 951,
+      "h": 643,
+      "orientation": "landscape",
+      "area": 611493,
+      "name": "Hamilton-jet-waterjet"
+    },
+    {
+      "slug": "2025-08-ybq-cover",
+      "lg": "/img/web/2025-08-ybq-cover-lg.webp",
+      "sm": "/img/web/2025-08-ybq-cover-sm.webp",
+      "w": 654,
+      "h": 933,
+      "orientation": "portrait",
+      "area": 610182,
+      "name": "YBQ-cover"
+    },
+    {
+      "slug": "2022-02-etnz-hydrogen",
+      "lg": "/img/web/2022-02-etnz-hydrogen-lg.webp",
+      "sm": "/img/web/2022-02-etnz-hydrogen-sm.webp",
+      "w": 1024,
+      "h": 575,
+      "orientation": "landscape",
+      "area": 588800,
+      "name": "ETNZ-hydrogen"
+    },
+    {
+      "slug": "2019-07-cb-cj-2",
+      "lg": "/img/web/2019-07-cb-cj-2-lg.webp",
+      "sm": "/img/web/2019-07-cb-cj-2-sm.webp",
+      "w": 1000,
+      "h": 578,
+      "orientation": "landscape",
+      "area": 578000,
+      "name": "CB-CJ-2"
+    },
+    {
+      "slug": "2021-05-surtees-750gf-2021-bs-prize-1100px",
+      "lg": "/img/web/2021-05-surtees-750gf-2021-bs-prize-1100px-lg.webp",
+      "sm": "/img/web/2021-05-surtees-750gf-2021-bs-prize-1100px-sm.webp",
+      "w": 1100,
+      "h": 519,
+      "orientation": "landscape",
+      "area": 570900,
+      "name": "Surtees-750GF_2021-BS-Prize_1100px"
+    },
+    {
+      "slug": "2020-10-taiwan-hamilton-jet-oct-2020",
+      "lg": "/img/web/2020-10-taiwan-hamilton-jet-oct-2020-lg.webp",
+      "sm": "/img/web/2020-10-taiwan-hamilton-jet-oct-2020-sm.webp",
+      "w": 925,
+      "h": 610,
+      "orientation": "landscape",
+      "area": 564250,
+      "name": "Taiwan-Hamilton-Jet-Oct-2020"
+    },
+    {
+      "slug": "2023-06-propspeed-underwater",
+      "lg": "/img/web/2023-06-propspeed-underwater-lg.webp",
+      "sm": "/img/web/2023-06-propspeed-underwater-sm.webp",
+      "w": 746,
+      "h": 746,
+      "orientation": "square",
+      "area": 556516,
+      "name": "Propspeed_underwater"
+    },
+    {
+      "slug": "2022-05-palm-beach-my",
+      "lg": "/img/web/2022-05-palm-beach-my-lg.webp",
+      "sm": "/img/web/2022-05-palm-beach-my-sm.webp",
+      "w": 907,
+      "h": 605,
+      "orientation": "landscape",
+      "area": 548735,
+      "name": "Palm-Beach-MY"
+    },
+    {
+      "slug": "sites-10-2022-05-palm-beach-my",
+      "lg": "/img/web/sites-10-2022-05-palm-beach-my-lg.webp",
+      "sm": "/img/web/sites-10-2022-05-palm-beach-my-sm.webp",
+      "w": 907,
+      "h": 605,
+      "orientation": "landscape",
+      "area": 548735,
+      "name": "Palm-Beach-MY"
+    },
+    {
+      "slug": "2025-01-king-fabrum",
+      "lg": "/img/web/2025-01-king-fabrum-lg.webp",
+      "sm": "/img/web/2025-01-king-fabrum-sm.webp",
+      "w": 906,
+      "h": 604,
+      "orientation": "landscape",
+      "area": 547224,
+      "name": "King-Fabrum"
+    },
+    {
+      "slug": "2022-05-sue-tucker",
+      "lg": "/img/web/2022-05-sue-tucker-lg.webp",
+      "sm": "/img/web/2022-05-sue-tucker-sm.webp",
+      "w": 654,
+      "h": 834,
+      "orientation": "portrait",
+      "area": 545436,
+      "name": "Sue-Tucker"
+    },
+    {
+      "slug": "2020-05-haines-hunter-website",
+      "lg": "/img/web/2020-05-haines-hunter-website-lg.webp",
+      "sm": "/img/web/2020-05-haines-hunter-website-sm.webp",
+      "w": 844,
+      "h": 640,
+      "orientation": "landscape",
+      "area": 540160,
+      "name": "Haines-Hunter-website"
+    },
+    {
+      "slug": "2019-08-homi-and-jrc-small",
+      "lg": "/img/web/2019-08-homi-and-jrc-small-lg.webp",
+      "sm": "/img/web/2019-08-homi-and-jrc-small-sm.webp",
+      "w": 900,
+      "h": 600,
+      "orientation": "landscape",
+      "area": 540000,
+      "name": "Homi-and-JRC-small"
+    },
+    {
+      "slug": "2023-06-mc-image",
+      "lg": "/img/web/2023-06-mc-image-lg.webp",
+      "sm": "/img/web/2023-06-mc-image-sm.webp",
+      "w": 900,
+      "h": 600,
+      "orientation": "landscape",
+      "area": 540000,
+      "name": "Mc-image"
+    },
+    {
+      "slug": "2023-06-webinar-series",
+      "lg": "/img/web/2023-06-webinar-series-lg.webp",
+      "sm": "/img/web/2023-06-webinar-series-sm.webp",
+      "w": 1200,
+      "h": 450,
+      "orientation": "landscape",
+      "area": 540000,
+      "name": "Webinar-Series"
+    },
+    {
+      "slug": "2023-10-bayswater-marina-188-dji-0730-hdr",
+      "lg": "/img/web/2023-10-bayswater-marina-188-dji-0730-hdr-lg.webp",
+      "sm": "/img/web/2023-10-bayswater-marina-188-dji-0730-hdr-sm.webp",
+      "w": 900,
+      "h": 600,
+      "orientation": "landscape",
+      "area": 540000,
+      "name": "Bayswater-Marina-188-DJI_0730-HDR"
+    },
+    {
+      "slug": "2024-10-hlyachting-womenscoastalhifit-navy2",
+      "lg": "/img/web/2024-10-hlyachting-womenscoastalhifit-navy2-lg.webp",
+      "sm": "/img/web/2024-10-hlyachting-womenscoastalhifit-navy2-sm.webp",
+      "w": 900,
+      "h": 600,
+      "orientation": "landscape",
+      "area": 540000,
+      "name": "HLYachting_WomensCoastalHiFit_Navy2"
+    },
+    {
+      "slug": "sites-10-2016-08-monaco-yacht-show-nz-marine-export",
+      "lg": "/img/web/sites-10-2016-08-monaco-yacht-show-nz-marine-export-lg.webp",
+      "sm": "/img/web/sites-10-2016-08-monaco-yacht-show-nz-marine-export-sm.webp",
+      "w": 600,
+      "h": 900,
+      "orientation": "portrait",
+      "area": 540000,
+      "name": "Monaco-Yacht-Show-NZ-Marine-Export"
+    },
+    {
+      "slug": "2020-05-coastguard-checklist-may-2020",
+      "lg": "/img/web/2020-05-coastguard-checklist-may-2020-lg.webp",
+      "sm": "/img/web/2020-05-coastguard-checklist-may-2020-sm.webp",
+      "w": 621,
+      "h": 869,
+      "orientation": "portrait",
+      "area": 539649,
+      "name": "Coastguard-checklist-May-2020"
+    },
+    {
+      "slug": "2020-01-9-ff-ts-fishreveal-blue-png-39065",
+      "lg": "/img/web/2020-01-9-ff-ts-fishreveal-blue-png-39065-lg.webp",
+      "sm": "/img/web/2020-01-9-ff-ts-fishreveal-blue-png-39065-sm.webp",
+      "w": 900,
+      "h": 596,
+      "orientation": "landscape",
+      "area": 536400,
+      "name": "9_FF_TS_FishReveal.Blue_.png_39065"
+    },
+    {
+      "slug": "2022-10-dickey-boats-small",
+      "lg": "/img/web/2022-10-dickey-boats-small-lg.webp",
+      "sm": "/img/web/2022-10-dickey-boats-small-sm.webp",
+      "w": 900,
+      "h": 593,
+      "orientation": "landscape",
+      "area": 533700,
+      "name": "Dickey-Boats-small"
+    },
+    {
+      "slug": "sites-10-2022-10-dickey-boats-small",
+      "lg": "/img/web/sites-10-2022-10-dickey-boats-small-lg.webp",
+      "sm": "/img/web/sites-10-2022-10-dickey-boats-small-sm.webp",
+      "w": 900,
+      "h": 593,
+      "orientation": "landscape",
+      "area": 533700,
+      "name": "Dickey-Boats-small"
+    },
+    {
+      "slug": "sites-10-2023-09-2023-delegates-in-session-crop",
+      "lg": "/img/web/sites-10-2023-09-2023-delegates-in-session-crop-lg.webp",
+      "sm": "/img/web/sites-10-2023-09-2023-delegates-in-session-crop-sm.webp",
+      "w": 1000,
+      "h": 520,
+      "orientation": "landscape",
+      "area": 520000,
+      "name": "2023-delegates-in-session-crop"
+    },
+    {
+      "slug": "2019-06-ssanz",
+      "lg": "/img/web/2019-06-ssanz-lg.webp",
+      "sm": "/img/web/2019-06-ssanz-sm.webp",
+      "w": 880,
+      "h": 587,
+      "orientation": "landscape",
+      "area": 516560,
+      "name": "SSANZ"
+    },
+    {
+      "slug": "2019-05-furuno-pic",
+      "lg": "/img/web/2019-05-furuno-pic-lg.webp",
+      "sm": "/img/web/2019-05-furuno-pic-sm.webp",
+      "w": 656,
+      "h": 768,
+      "orientation": "portrait",
+      "area": 503808,
+      "name": "Furuno-pic"
+    },
+    {
+      "slug": "2024-04-lowrance-eagle",
+      "lg": "/img/web/2024-04-lowrance-eagle-lg.webp",
+      "sm": "/img/web/2024-04-lowrance-eagle-sm.webp",
+      "w": 900,
+      "h": 554,
+      "orientation": "landscape",
+      "area": 498600,
+      "name": "Lowrance-Eagle"
+    },
+    {
+      "slug": "sites-10-2018-07-winter-2017-cover-image",
+      "lg": "/img/web/sites-10-2018-07-winter-2017-cover-image-lg.webp",
+      "sm": "/img/web/sites-10-2018-07-winter-2017-cover-image-sm.webp",
+      "w": 592,
+      "h": 835,
+      "orientation": "portrait",
+      "area": 494320,
+      "name": "Winter-2017-cover-image"
+    },
+    {
+      "slug": "sites-10-2019-01-cover-pic",
+      "lg": "/img/web/sites-10-2019-01-cover-pic-lg.webp",
+      "sm": "/img/web/sites-10-2019-01-cover-pic-sm.webp",
+      "w": 600,
+      "h": 821,
+      "orientation": "portrait",
+      "area": 492600,
+      "name": "Cover-pic"
+    },
+    {
+      "slug": "2025-03-boat-show-2025-day2-drone-rm-5",
+      "lg": "/img/web/2025-03-boat-show-2025-day2-drone-rm-5-lg.webp",
+      "sm": "/img/web/2025-03-boat-show-2025-day2-drone-rm-5-sm.webp",
+      "w": 800,
+      "h": 599,
+      "orientation": "landscape",
+      "area": 479200,
+      "name": "Boat_Show_2025_Day2_Drone_RM-5"
+    },
+    {
+      "slug": "2026-03-boat-show-live-sail-die-43",
+      "lg": "/img/web/2026-03-boat-show-live-sail-die-43-lg.webp",
+      "sm": "/img/web/2026-03-boat-show-live-sail-die-43-sm.webp",
+      "w": 800,
+      "h": 599,
+      "orientation": "landscape",
+      "area": 479200,
+      "name": "Boat-Show_Live-Sail-Die_43"
+    },
+    {
+      "slug": "2019-03-matt-watson",
+      "lg": "/img/web/2019-03-matt-watson-lg.webp",
+      "sm": "/img/web/2019-03-matt-watson-sm.webp",
+      "w": 796,
+      "h": 600,
+      "orientation": "landscape",
+      "area": 477600,
+      "name": "Matt-Watson"
+    },
+    {
+      "slug": "sites-10-2020-08-blue-standard-plate",
+      "lg": "/img/web/sites-10-2020-08-blue-standard-plate-lg.webp",
+      "sm": "/img/web/sites-10-2020-08-blue-standard-plate-sm.webp",
+      "w": 805,
+      "h": 586,
+      "orientation": "landscape",
+      "area": 471730,
+      "name": "Blue-standard-plate"
+    },
+    {
+      "slug": "2024-12-surtees-770-a-1-small",
+      "lg": "/img/web/2024-12-surtees-770-a-1-small-lg.webp",
+      "sm": "/img/web/2024-12-surtees-770-a-1-small-sm.webp",
+      "w": 800,
+      "h": 583,
+      "orientation": "landscape",
+      "area": 466400,
+      "name": "Surtees_770_a-1-small"
+    },
+    {
+      "slug": "2020-05-yamaha-four-in-row",
+      "lg": "/img/web/2020-05-yamaha-four-in-row-lg.webp",
+      "sm": "/img/web/2020-05-yamaha-four-in-row-sm.webp",
+      "w": 899,
+      "h": 517,
+      "orientation": "landscape",
+      "area": 464783,
+      "name": "Yamaha-four-in-row"
+    },
+    {
+      "slug": "2026-04-lb-axiom",
+      "lg": "/img/web/2026-04-lb-axiom-lg.webp",
+      "sm": "/img/web/2026-04-lb-axiom-sm.webp",
+      "w": 900,
+      "h": 506,
+      "orientation": "landscape",
+      "area": 455400,
+      "name": "LB-Axiom"
+    },
+    {
+      "slug": "sites-10-2021-07-nz-marine-news-autumn-21-cover",
+      "lg": "/img/web/sites-10-2021-07-nz-marine-news-autumn-21-cover-lg.webp",
+      "sm": "/img/web/sites-10-2021-07-nz-marine-news-autumn-21-cover-sm.webp",
+      "w": 543,
+      "h": 833,
+      "orientation": "portrait",
+      "area": 452319,
+      "name": "NZ-Marine-News-Autumn-21-cover"
+    },
+    {
+      "slug": "2021-10-boating-magazine-aucklands-newest-marine-precinct",
+      "lg": "/img/web/2021-10-boating-magazine-aucklands-newest-marine-precinct-lg.webp",
+      "sm": "/img/web/2021-10-boating-magazine-aucklands-newest-marine-precinct-sm.webp",
+      "w": 900,
+      "h": 500,
+      "orientation": "landscape",
+      "area": 450000,
+      "name": "Boating-Magazine-Aucklands-Newest-Marine-Precinct"
+    },
+    {
+      "slug": "2022-09-skipperi-doubles-aucklan-fleet",
+      "lg": "/img/web/2022-09-skipperi-doubles-aucklan-fleet-lg.webp",
+      "sm": "/img/web/2022-09-skipperi-doubles-aucklan-fleet-sm.webp",
+      "w": 900,
+      "h": 500,
+      "orientation": "landscape",
+      "area": 450000,
+      "name": "Skipperi-doubles-Aucklan-fleet"
+    },
+    {
+      "slug": "2019-04-spinoff-ac-article-pic",
+      "lg": "/img/web/2019-04-spinoff-ac-article-pic-lg.webp",
+      "sm": "/img/web/2019-04-spinoff-ac-article-pic-sm.webp",
+      "w": 851,
+      "h": 528,
+      "orientation": "landscape",
+      "area": 449328,
+      "name": "Spinoff-AC-article-pic"
+    },
+    {
+      "slug": "sites-10-2023-12-dixon",
+      "lg": "/img/web/sites-10-2023-12-dixon-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-dixon-sm.webp",
+      "w": 670,
+      "h": 670,
+      "orientation": "square",
+      "area": 448900,
+      "name": "Dixon"
+    },
+    {
+      "slug": "sites-10-2023-12-llyod",
+      "lg": "/img/web/sites-10-2023-12-llyod-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-llyod-sm.webp",
+      "w": 670,
+      "h": 670,
+      "orientation": "square",
+      "area": 448900,
+      "name": "Llyod"
+    },
+    {
+      "slug": "sites-10-2023-12-martonics",
+      "lg": "/img/web/sites-10-2023-12-martonics-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-martonics-sm.webp",
+      "w": 670,
+      "h": 670,
+      "orientation": "square",
+      "area": 448900,
+      "name": "Martonics"
+    },
+    {
+      "slug": "sites-10-2023-12-mcmullen",
+      "lg": "/img/web/sites-10-2023-12-mcmullen-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-mcmullen-sm.webp",
+      "w": 670,
+      "h": 670,
+      "orientation": "square",
+      "area": 448900,
+      "name": "McMullen"
+    },
+    {
+      "slug": "2021-09-federico-giampieri-r0lftflmypw-unsplash1",
+      "lg": "/img/web/2021-09-federico-giampieri-r0lftflmypw-unsplash1-lg.webp",
+      "sm": "/img/web/2021-09-federico-giampieri-r0lftflmypw-unsplash1-sm.webp",
+      "w": 576,
+      "h": 768,
+      "orientation": "portrait",
+      "area": 442368,
+      "name": "federico-giampieri-R0lftflMYPw-unsplash1"
+    },
+    {
+      "slug": "2025-04-ynz-mag",
+      "lg": "/img/web/2025-04-ynz-mag-lg.webp",
+      "sm": "/img/web/2025-04-ynz-mag-sm.webp",
+      "w": 550,
+      "h": 785,
+      "orientation": "portrait",
+      "area": 431750,
+      "name": "YNZ-mag"
+    },
+    {
+      "slug": "sites-10-2016-08-bay-of-islands-nz-d-copy",
+      "lg": "/img/web/sites-10-2016-08-bay-of-islands-nz-d-copy-lg.webp",
+      "sm": "/img/web/sites-10-2016-08-bay-of-islands-nz-d-copy-sm.webp",
+      "w": 800,
+      "h": 537,
+      "orientation": "landscape",
+      "area": 429600,
+      "name": "Bay_of_Islands_NZ_d_copy"
+    },
+    {
+      "slug": "2021-08-w3p-3",
+      "lg": "/img/web/2021-08-w3p-3-lg.webp",
+      "sm": "/img/web/2021-08-w3p-3-sm.webp",
+      "w": 941,
+      "h": 454,
+      "orientation": "landscape",
+      "area": 427214,
+      "name": "W3P_3"
+    },
+    {
+      "slug": "2021-01-yacht-sense-rm-2",
+      "lg": "/img/web/2021-01-yacht-sense-rm-2-lg.webp",
+      "sm": "/img/web/2021-01-yacht-sense-rm-2-sm.webp",
+      "w": 800,
+      "h": 533,
+      "orientation": "landscape",
+      "area": 426400,
+      "name": "Yacht-Sense-RM-2"
+    },
+    {
+      "slug": "2021-08-6da3e87b-a958-4ca3-9de1-9bd0e03f264c",
+      "lg": "/img/web/2021-08-6da3e87b-a958-4ca3-9de1-9bd0e03f264c-lg.webp",
+      "sm": "/img/web/2021-08-6da3e87b-a958-4ca3-9de1-9bd0e03f264c-sm.webp",
+      "w": 800,
+      "h": 533,
+      "orientation": "landscape",
+      "area": 426400,
+      "name": "6da3e87b-a958-4ca3-9de1-9bd0e03f264c"
+    },
+    {
+      "slug": "2024-09-hamiltonjet-mou-malaysia-1",
+      "lg": "/img/web/2024-09-hamiltonjet-mou-malaysia-1-lg.webp",
+      "sm": "/img/web/2024-09-hamiltonjet-mou-malaysia-1-sm.webp",
+      "w": 800,
+      "h": 533,
+      "orientation": "landscape",
+      "area": 426400,
+      "name": "HamiltonJet-MOU-Malaysia-1"
+    },
+    {
+      "slug": "2024-10-jeff-brown-11846-1",
+      "lg": "/img/web/2024-10-jeff-brown-11846-1-lg.webp",
+      "sm": "/img/web/2024-10-jeff-brown-11846-1-sm.webp",
+      "w": 800,
+      "h": 533,
+      "orientation": "landscape",
+      "area": 426400,
+      "name": "Jeff-Brown-11846-1"
+    },
+    {
+      "slug": "2025-02-abs-pic",
+      "lg": "/img/web/2025-02-abs-pic-lg.webp",
+      "sm": "/img/web/2025-02-abs-pic-sm.webp",
+      "w": 800,
+      "h": 533,
+      "orientation": "landscape",
+      "area": 426400,
+      "name": "ABS-pic"
+    },
+    {
+      "slug": "2025-10-auck-wooden-boat-festival",
+      "lg": "/img/web/2025-10-auck-wooden-boat-festival-lg.webp",
+      "sm": "/img/web/2025-10-auck-wooden-boat-festival-sm.webp",
+      "w": 800,
+      "h": 533,
+      "orientation": "landscape",
+      "area": 426400,
+      "name": "Auck-Wooden-Boat-Festival"
+    },
+    {
+      "slug": "2025-10-hamiltonjet-new-factory-opening-01803",
+      "lg": "/img/web/2025-10-hamiltonjet-new-factory-opening-01803-lg.webp",
+      "sm": "/img/web/2025-10-hamiltonjet-new-factory-opening-01803-sm.webp",
+      "w": 800,
+      "h": 533,
+      "orientation": "landscape",
+      "area": 426400,
+      "name": "HamiltonJet-New-Factory-Opening-01803"
+    },
+    {
+      "slug": "2026-04-timcuff-port-nelson-hoist06",
+      "lg": "/img/web/2026-04-timcuff-port-nelson-hoist06-lg.webp",
+      "sm": "/img/web/2026-04-timcuff-port-nelson-hoist06-sm.webp",
+      "w": 800,
+      "h": 533,
+      "orientation": "landscape",
+      "area": 426400,
+      "name": "TimCuff-Port-Nelson-Hoist06"
+    },
+    {
+      "slug": "sites-10-2016-08-auckland-city-of-sails-terry-fong",
+      "lg": "/img/web/sites-10-2016-08-auckland-city-of-sails-terry-fong-lg.webp",
+      "sm": "/img/web/sites-10-2016-08-auckland-city-of-sails-terry-fong-sm.webp",
+      "w": 800,
+      "h": 533,
+      "orientation": "landscape",
+      "area": 426400,
+      "name": "Auckland_City_of_Sails_-_Terry_Fong"
+    },
+    {
+      "slug": "2019-05-yamaha-trusted",
+      "lg": "/img/web/2019-05-yamaha-trusted-lg.webp",
+      "sm": "/img/web/2019-05-yamaha-trusted-sm.webp",
+      "w": 800,
+      "h": 529,
+      "orientation": "landscape",
+      "area": 423200,
+      "name": "Yamaha-trusted"
+    },
+    {
+      "slug": "2020-05-haines-hunter-new-web",
+      "lg": "/img/web/2020-05-haines-hunter-new-web-lg.webp",
+      "sm": "/img/web/2020-05-haines-hunter-new-web-sm.webp",
+      "w": 788,
+      "h": 532,
+      "orientation": "landscape",
+      "area": 419216,
+      "name": "Haines-Hunter-new-web"
+    },
+    {
+      "slug": "2019-04-l-b-tauranga-opening",
+      "lg": "/img/web/2019-04-l-b-tauranga-opening-lg.webp",
+      "sm": "/img/web/2019-04-l-b-tauranga-opening-sm.webp",
+      "w": 792,
+      "h": 528,
+      "orientation": "landscape",
+      "area": 418176,
+      "name": "L-B-Tauranga-opening"
+    },
+    {
+      "slug": "2019-05-extreme-bos",
+      "lg": "/img/web/2019-05-extreme-bos-lg.webp",
+      "sm": "/img/web/2019-05-extreme-bos-sm.webp",
+      "w": 800,
+      "h": 517,
+      "orientation": "landscape",
+      "area": 413600,
+      "name": "Extreme-BOS"
+    },
+    {
+      "slug": "2025-08-conference-pic-2025",
+      "lg": "/img/web/2025-08-conference-pic-2025-lg.webp",
+      "sm": "/img/web/2025-08-conference-pic-2025-sm.webp",
+      "w": 795,
+      "h": 475,
+      "orientation": "landscape",
+      "area": 377625,
+      "name": "Conference-pic-2025"
+    },
+    {
+      "slug": "2018-01-gate-prize-2018",
+      "lg": "/img/web/2018-01-gate-prize-2018-lg.webp",
+      "sm": "/img/web/2018-01-gate-prize-2018-sm.webp",
+      "w": 799,
+      "h": 468,
+      "orientation": "landscape",
+      "area": 373932,
+      "name": "Gate-prize-2018"
+    },
+    {
+      "slug": "2019-06-rangitoto-and-sky-tower",
+      "lg": "/img/web/2019-06-rangitoto-and-sky-tower-lg.webp",
+      "sm": "/img/web/2019-06-rangitoto-and-sky-tower-sm.webp",
+      "w": 788,
+      "h": 466,
+      "orientation": "landscape",
+      "area": 367208,
+      "name": "Rangitoto-and-Sky-Tower"
+    },
+    {
+      "slug": "2024-05-autumn-2024-cover",
+      "lg": "/img/web/2024-05-autumn-2024-cover-lg.webp",
+      "sm": "/img/web/2024-05-autumn-2024-cover-sm.webp",
+      "w": 517,
+      "h": 705,
+      "orientation": "portrait",
+      "area": 364485,
+      "name": "Autumn-2024-cover"
+    },
+    {
+      "slug": "sites-10-2024-05-autumn-2024-cover",
+      "lg": "/img/web/sites-10-2024-05-autumn-2024-cover-lg.webp",
+      "sm": "/img/web/sites-10-2024-05-autumn-2024-cover-sm.webp",
+      "w": 517,
+      "h": 705,
+      "orientation": "portrait",
+      "area": 364485,
+      "name": "Autumn-2024-cover"
+    },
+    {
+      "slug": "2021-10-safer-boating",
+      "lg": "/img/web/2021-10-safer-boating-lg.webp",
+      "sm": "/img/web/2021-10-safer-boating-sm.webp",
+      "w": 750,
+      "h": 480,
+      "orientation": "landscape",
+      "area": 360000,
+      "name": "SAfer-Boating"
+    },
+    {
+      "slug": "sites-10-2023-12-ctech",
+      "lg": "/img/web/sites-10-2023-12-ctech-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-ctech-sm.webp",
+      "w": 600,
+      "h": 600,
+      "orientation": "square",
+      "area": 360000,
+      "name": "CTech"
+    },
+    {
+      "slug": "sites-10-2023-12-dprojects",
+      "lg": "/img/web/sites-10-2023-12-dprojects-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-dprojects-sm.webp",
+      "w": 600,
+      "h": 600,
+      "orientation": "square",
+      "area": 360000,
+      "name": "DProjects"
+    },
+    {
+      "slug": "sites-10-2023-12-doyle",
+      "lg": "/img/web/sites-10-2023-12-doyle-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-doyle-sm.webp",
+      "w": 600,
+      "h": 600,
+      "orientation": "square",
+      "area": 360000,
+      "name": "Doyle"
+    },
+    {
+      "slug": "sites-10-2023-12-fastmount",
+      "lg": "/img/web/sites-10-2023-12-fastmount-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-fastmount-sm.webp",
+      "w": 600,
+      "h": 600,
+      "orientation": "square",
+      "area": 360000,
+      "name": "Fastmount"
+    },
+    {
+      "slug": "sites-10-2023-12-nz",
+      "lg": "/img/web/sites-10-2023-12-nz-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-nz-sm.webp",
+      "w": 600,
+      "h": 600,
+      "orientation": "square",
+      "area": 360000,
+      "name": "NZ"
+    },
+    {
+      "slug": "sites-10-2023-12-vmg",
+      "lg": "/img/web/sites-10-2023-12-vmg-lg.webp",
+      "sm": "/img/web/sites-10-2023-12-vmg-sm.webp",
+      "w": 600,
+      "h": 600,
+      "orientation": "square",
+      "area": 360000,
+      "name": "VMG"
+    },
+    {
+      "slug": "2020-03-rina",
+      "lg": "/img/web/2020-03-rina-lg.webp",
+      "sm": "/img/web/2020-03-rina-sm.webp",
+      "w": 847,
+      "h": 400,
+      "orientation": "landscape",
+      "area": 338800,
+      "name": "RINA"
+    },
+    {
+      "slug": "2019-06-views-at-delamore-lodge-courtesy-tourism-nz",
+      "lg": "/img/web/2019-06-views-at-delamore-lodge-courtesy-tourism-nz-lg.webp",
+      "sm": "/img/web/2019-06-views-at-delamore-lodge-courtesy-tourism-nz-sm.webp",
+      "w": 800,
+      "h": 420,
+      "orientation": "landscape",
+      "area": 336000,
+      "name": "Views-at-Delamore-Lodge_courtesy-Tourism-NZ_"
+    },
+    {
+      "slug": "sites-10-2023-06-trinity-wharf-pic-crop",
+      "lg": "/img/web/sites-10-2023-06-trinity-wharf-pic-crop-lg.webp",
+      "sm": "/img/web/sites-10-2023-06-trinity-wharf-pic-crop-sm.webp",
+      "w": 960,
+      "h": 350,
+      "orientation": "landscape",
+      "area": 336000,
+      "name": "Trinity-Wharf-pic-crop"
+    },
+    {
+      "slug": "sites-10-2016-07-mcup-website",
+      "lg": "/img/web/sites-10-2016-07-mcup-website-lg.webp",
+      "sm": "/img/web/sites-10-2016-07-mcup-website-sm.webp",
+      "w": 810,
+      "h": 386,
+      "orientation": "landscape",
+      "area": 312660,
+      "name": "MCup-website"
+    },
+    {
+      "slug": "sites-10-2025-10-dcnz-cover-pic",
+      "lg": "/img/web/sites-10-2025-10-dcnz-cover-pic-lg.webp",
+      "sm": "/img/web/sites-10-2025-10-dcnz-cover-pic-sm.webp",
+      "w": 627,
+      "h": 497,
+      "orientation": "landscape",
+      "area": 311619,
+      "name": "DCNZ-cover-pic"
+    },
+    {
+      "slug": "2023-06-summer-2023-cover",
+      "lg": "/img/web/2023-06-summer-2023-cover-lg.webp",
+      "sm": "/img/web/2023-06-summer-2023-cover-sm.webp",
+      "w": 447,
+      "h": 637,
+      "orientation": "portrait",
+      "area": 284739,
+      "name": "Summer-2023-cover"
+    },
+    {
+      "slug": "2022-02-nz-marine-news-summer-22-cover",
+      "lg": "/img/web/2022-02-nz-marine-news-summer-22-cover-lg.webp",
+      "sm": "/img/web/2022-02-nz-marine-news-summer-22-cover-sm.webp",
+      "w": 446,
+      "h": 637,
+      "orientation": "portrait",
+      "area": 284102,
+      "name": "NZ-Marine-News-Summer-22-cover"
+    },
+    {
+      "slug": "sites-10-2022-02-nz-marine-news-summer-22-cover",
+      "lg": "/img/web/sites-10-2022-02-nz-marine-news-summer-22-cover-lg.webp",
+      "sm": "/img/web/sites-10-2022-02-nz-marine-news-summer-22-cover-sm.webp",
+      "w": 446,
+      "h": 637,
+      "orientation": "portrait",
+      "area": 284102,
+      "name": "NZ-Marine-News-Summer-22-cover"
+    },
+    {
+      "slug": "2019-08-raymarine-thermal-camera",
+      "lg": "/img/web/2019-08-raymarine-thermal-camera-lg.webp",
+      "sm": "/img/web/2019-08-raymarine-thermal-camera-sm.webp",
+      "w": 671,
+      "h": 423,
+      "orientation": "landscape",
+      "area": 283833,
+      "name": "Raymarine-thermal-camera"
+    },
+    {
+      "slug": "2020-10-attest-westhaven-marina",
+      "lg": "/img/web/2020-10-attest-westhaven-marina-lg.webp",
+      "sm": "/img/web/2020-10-attest-westhaven-marina-sm.webp",
+      "w": 640,
+      "h": 427,
+      "orientation": "landscape",
+      "area": 273280,
+      "name": "Attest-Westhaven-Marina"
+    },
+    {
+      "slug": "2026-02-boatgear-building",
+      "lg": "/img/web/2026-02-boatgear-building-lg.webp",
+      "sm": "/img/web/2026-02-boatgear-building-sm.webp",
+      "w": 602,
+      "h": 451,
+      "orientation": "landscape",
+      "area": 271502,
+      "name": "Boatgear-building"
+    },
+    {
+      "slug": "2022-04-dardanella",
+      "lg": "/img/web/2022-04-dardanella-lg.webp",
+      "sm": "/img/web/2022-04-dardanella-sm.webp",
+      "w": 634,
+      "h": 423,
+      "orientation": "landscape",
+      "area": 268182,
+      "name": "Dardanella"
+    },
+    {
+      "slug": "2023-07-nzmi-conference-brochure-cover",
+      "lg": "/img/web/2023-07-nzmi-conference-brochure-cover-lg.webp",
+      "sm": "/img/web/2023-07-nzmi-conference-brochure-cover-sm.webp",
+      "w": 431,
+      "h": 620,
+      "orientation": "portrait",
+      "area": 267220,
+      "name": "NZMI-Conference-Brochure-cover"
+    },
+    {
+      "slug": "2020-07-lsb-training-pic",
+      "lg": "/img/web/2020-07-lsb-training-pic-lg.webp",
+      "sm": "/img/web/2020-07-lsb-training-pic-sm.webp",
+      "w": 638,
+      "h": 416,
+      "orientation": "landscape",
+      "area": 265408,
+      "name": "LSB-training-pic"
+    },
+    {
+      "slug": "sites-10-2026-04-nzm-news-2026-cover",
+      "lg": "/img/web/sites-10-2026-04-nzm-news-2026-cover-lg.webp",
+      "sm": "/img/web/sites-10-2026-04-nzm-news-2026-cover-sm.webp",
+      "w": 431,
+      "h": 615,
+      "orientation": "portrait",
+      "area": 265065,
+      "name": "NZM-News-2026-cover"
+    },
+    {
+      "slug": "2022-02-q-west-p5-exterior-model-photoshop-1-small",
+      "lg": "/img/web/2022-02-q-west-p5-exterior-model-photoshop-1-small-lg.webp",
+      "sm": "/img/web/2022-02-q-west-p5-exterior-model-photoshop-1-small-sm.webp",
+      "w": 683,
+      "h": 383,
+      "orientation": "landscape",
+      "area": 261589,
+      "name": "Q-West-P5-Exterior-Model-Photoshop-1-small"
+    },
+    {
+      "slug": "2019-01-rayglass-jan-2019",
+      "lg": "/img/web/2019-01-rayglass-jan-2019-lg.webp",
+      "sm": "/img/web/2019-01-rayglass-jan-2019-sm.webp",
+      "w": 604,
+      "h": 404,
+      "orientation": "landscape",
+      "area": 244016,
+      "name": "Rayglass-Jan-2019"
+    },
+    {
+      "slug": "2019-02-tawera-under-sail-small",
+      "lg": "/img/web/2019-02-tawera-under-sail-small-lg.webp",
+      "sm": "/img/web/2019-02-tawera-under-sail-small-sm.webp",
+      "w": 600,
+      "h": 402,
+      "orientation": "landscape",
+      "area": 241200,
+      "name": "Tawera-under-sail-small"
+    },
+    {
+      "slug": "2019-01-lb-tauranga-1",
+      "lg": "/img/web/2019-01-lb-tauranga-1-lg.webp",
+      "sm": "/img/web/2019-01-lb-tauranga-1-sm.webp",
+      "w": 601,
+      "h": 399,
+      "orientation": "landscape",
+      "area": 239799,
+      "name": "LB-Tauranga-1"
+    },
+    {
+      "slug": "sites-10-2022-05-bow-pro-thruster",
+      "lg": "/img/web/sites-10-2022-05-bow-pro-thruster-lg.webp",
+      "sm": "/img/web/sites-10-2022-05-bow-pro-thruster-sm.webp",
+      "w": 624,
+      "h": 377,
+      "orientation": "landscape",
+      "area": 235248,
+      "name": "Bow-Pro-Thruster"
+    },
+    {
+      "slug": "2019-02-ctek-lb",
+      "lg": "/img/web/2019-02-ctek-lb-lg.webp",
+      "sm": "/img/web/2019-02-ctek-lb-sm.webp",
+      "w": 732,
+      "h": 320,
+      "orientation": "landscape",
+      "area": 234240,
+      "name": "CTEK-LB"
+    },
+    {
+      "slug": "sites-10-2016-07-shutterstock-209357422-resize",
+      "lg": "/img/web/sites-10-2016-07-shutterstock-209357422-resize-lg.webp",
+      "sm": "/img/web/sites-10-2016-07-shutterstock-209357422-resize-sm.webp",
+      "w": 600,
+      "h": 361,
+      "orientation": "landscape",
+      "area": 216600,
+      "name": "shutterstock_209357422_resize"
+    },
+    {
+      "slug": "2025-07-qmc-seakeepers",
+      "lg": "/img/web/2025-07-qmc-seakeepers-lg.webp",
+      "sm": "/img/web/2025-07-qmc-seakeepers-sm.webp",
+      "w": 646,
+      "h": 321,
+      "orientation": "landscape",
+      "area": 207366,
+      "name": "QMC-Seakeepers"
+    },
+    {
+      "slug": "2026-01-sail-gp-doyle-sails",
+      "lg": "/img/web/2026-01-sail-gp-doyle-sails-lg.webp",
+      "sm": "/img/web/2026-01-sail-gp-doyle-sails-sm.webp",
+      "w": 657,
+      "h": 313,
+      "orientation": "landscape",
+      "area": 205641,
+      "name": "Sail-GP-Doyle-Sails"
+    },
+    {
+      "slug": "2022-05-new-stabi-models",
+      "lg": "/img/web/2022-05-new-stabi-models-lg.webp",
+      "sm": "/img/web/2022-05-new-stabi-models-sm.webp",
+      "w": 602,
+      "h": 341,
+      "orientation": "landscape",
+      "area": 205282,
+      "name": "New-Stabi-models"
+    },
+    {
+      "slug": "2024-06-zerojet-making-electric-boating-fun-1",
+      "lg": "/img/web/2024-06-zerojet-making-electric-boating-fun-1-lg.webp",
+      "sm": "/img/web/2024-06-zerojet-making-electric-boating-fun-1-sm.webp",
+      "w": 600,
+      "h": 323,
+      "orientation": "landscape",
+      "area": 193800,
+      "name": "Zerojet-making-electric-boating-fun-1"
+    },
+    {
+      "slug": "sites-10-2024-02-milleniumcup",
+      "lg": "/img/web/sites-10-2024-02-milleniumcup-lg.webp",
+      "sm": "/img/web/sites-10-2024-02-milleniumcup-sm.webp",
+      "w": 608,
+      "h": 312,
+      "orientation": "landscape",
+      "area": 189696,
+      "name": "milleniumcup"
+    },
+    {
+      "slug": "sites-10-2026-05-fiji-image-3-e1778460368539",
+      "lg": "/img/web/sites-10-2026-05-fiji-image-3-e1778460368539-lg.webp",
+      "sm": "/img/web/sites-10-2026-05-fiji-image-3-e1778460368539-sm.webp",
+      "w": 728,
+      "h": 140,
+      "orientation": "landscape",
+      "area": 101920,
+      "name": "fiji-image-3-e1778460368539"
+    },
+    {
+      "slug": "2022-01-safer-boating-28-jan-22",
+      "lg": "/img/web/2022-01-safer-boating-28-jan-22-lg.webp",
+      "sm": "/img/web/2022-01-safer-boating-28-jan-22-sm.webp",
+      "w": 617,
+      "h": 154,
+      "orientation": "landscape",
+      "area": 95018,
+      "name": "Safer-Boating-28-Jan-22"
+    }
+  ],
+  "logos": [
+    {
+      "slug": "2018-05-fusion-award-winner",
+      "src": "/img/web/2018-05-fusion-award-winner-logo.webp",
+      "w": 287,
+      "h": 150,
+      "name": "Fusion-award-winner"
+    },
+    {
+      "slug": "2019-02-excess12-view52-small",
+      "src": "/img/web/2019-02-excess12-view52-small-logo.webp",
+      "w": 280,
+      "h": 150,
+      "name": "EXCESS12_VIEW52-small"
+    },
+    {
+      "slug": "2020-04-hamiltonjet-main-logo-web",
+      "src": "/img/web/2020-04-hamiltonjet-main-logo-web-logo.webp",
+      "w": 227,
+      "h": 96,
+      "name": "HamiltonJet-Main-Logo-web"
+    },
+    {
+      "slug": "2020-07-hamilton-jet-and-ev-maritime",
+      "src": "/img/web/2020-07-hamilton-jet-and-ev-maritime-logo.webp",
+      "w": 259,
+      "h": 150,
+      "name": "Hamilton-Jet-and-EV-Maritime"
+    },
+    {
+      "slug": "2020-11-sealegs-gold",
+      "src": "/img/web/2020-11-sealegs-gold-logo.webp",
+      "w": 248,
+      "h": 150,
+      "name": "Sealegs-Gold"
+    },
+    {
+      "slug": "2021-09-south-island-rally-flyer-21",
+      "src": "/img/web/2021-09-south-island-rally-flyer-21-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "South-Island-Rally-Flyer-21"
+    },
+    {
+      "slug": "2021-09-mnz-logo-print",
+      "src": "/img/web/2021-09-mnz-logo-print-logo.webp",
+      "w": 300,
+      "h": 72,
+      "name": "mnz-logo-print"
+    },
+    {
+      "slug": "2021-12-fm-logo-bars-100",
+      "src": "/img/web/2021-12-fm-logo-bars-100-logo.webp",
+      "w": 300,
+      "h": 72,
+      "name": "FM-Logo_Bars_100"
+    },
+    {
+      "slug": "2022-02-abs-logo-22",
+      "src": "/img/web/2022-02-abs-logo-22-logo.webp",
+      "w": 300,
+      "h": 147,
+      "name": "ABS-logo-22"
+    },
+    {
+      "slug": "2022-03-skipper-training-nz-vessel-logo",
+      "src": "/img/web/2022-03-skipper-training-nz-vessel-logo-logo.webp",
+      "w": 200,
+      "h": 150,
+      "name": "Skipper-Training-NZ-Vessel-logo"
+    },
+    {
+      "slug": "2022-04-sealegs-and-rangi",
+      "src": "/img/web/2022-04-sealegs-and-rangi-logo.webp",
+      "w": 286,
+      "h": 150,
+      "name": "sealegs-and-Rangi"
+    },
+    {
+      "slug": "2023-01-auckland-boatshow-march-2023-logo-final-col-rev-v2",
+      "src": "/img/web/2023-01-auckland-boatshow-march-2023-logo-final-col-rev-v2-logo.webp",
+      "w": 300,
+      "h": 147,
+      "name": "Auckland-BoatShow-March_2023_Logo-FINAL_Col-Rev-V2"
+    },
+    {
+      "slug": "2023-06-offshore-bs-award-winner",
+      "src": "/img/web/2023-06-offshore-bs-award-winner-logo.webp",
+      "w": 226,
+      "h": 150,
+      "name": "Offshore-BS-award-winner"
+    },
+    {
+      "slug": "2023-06-skipperi-award",
+      "src": "/img/web/2023-06-skipperi-award-logo.webp",
+      "w": 225,
+      "h": 150,
+      "name": "Skipperi-award"
+    },
+    {
+      "slug": "2023-10-dame-design-award-winners-on-stage",
+      "src": "/img/web/2023-10-dame-design-award-winners-on-stage-logo.webp",
+      "w": 225,
+      "h": 150,
+      "name": "DAME-design-award-winners-on-stage"
+    },
+    {
+      "slug": "2023-10-sports-marine-award-web",
+      "src": "/img/web/2023-10-sports-marine-award-web-logo.webp",
+      "w": 216,
+      "h": 150,
+      "name": "Sports-Marine-award-web"
+    },
+    {
+      "slug": "2023-11-raymarine-dame-400x400-png",
+      "src": "/img/web/2023-11-raymarine-dame-400x400-png-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "Raymarine-DAME-400x400.png"
+    },
+    {
+      "slug": "2024-04-lighthouse-400x400-png",
+      "src": "/img/web/2024-04-lighthouse-400x400-png-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "Lighthouse-400x400.png"
+    },
+    {
+      "slug": "2024-04-lowrance-eagle-400x400-png",
+      "src": "/img/web/2024-04-lowrance-eagle-400x400-png-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "Lowrance-Eagle-400x400.png"
+    },
+    {
+      "slug": "2025-05-qmc-logo-country-tagline",
+      "src": "/img/web/2025-05-qmc-logo-country-tagline-logo.webp",
+      "w": 300,
+      "h": 121,
+      "name": "QMC-logo-Country-Tagline"
+    },
+    {
+      "slug": "2025-05-tectrax-launcher-400x400-png",
+      "src": "/img/web/2025-05-tectrax-launcher-400x400-png-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "Tectrax-launcher-400x400.png"
+    },
+    {
+      "slug": "2025-12-tectrax-sbs",
+      "src": "/img/web/2025-12-tectrax-sbs-logo.webp",
+      "w": 266,
+      "h": 150,
+      "name": "Tectrax-SBS"
+    },
+    {
+      "slug": "2026-02-flir-lb-400x400-png",
+      "src": "/img/web/2026-02-flir-lb-400x400-png-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "FLIR-LB-400x400.png"
+    },
+    {
+      "slug": "2026-04-lb-axiom-400x400-png",
+      "src": "/img/web/2026-04-lb-axiom-400x400-png-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "LB-Axiom-400x400.png"
+    },
+    {
+      "slug": "sites-10-2016-07-nzmarine-discover-boating-3",
+      "src": "/img/web/sites-10-2016-07-nzmarine-discover-boating-3-logo.webp",
+      "w": 202,
+      "h": 150,
+      "name": "NZMarine_Discover_Boating_3"
+    },
+    {
+      "slug": "sites-10-2016-07-nzmarine-top-logo-141x63-1",
+      "src": "/img/web/sites-10-2016-07-nzmarine-top-logo-141x63-1-logo.webp",
+      "w": 141,
+      "h": 63,
+      "name": "NZMarine_top_logo_141x63-1"
+    },
+    {
+      "slug": "sites-10-2016-07-cropped-nz-marine-favicon-512x512",
+      "src": "/img/web/sites-10-2016-07-cropped-nz-marine-favicon-512x512-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "cropped-NZ_Marine_Favicon_512x512"
+    },
+    {
+      "slug": "sites-10-2021-11-nz-marine-sister-website-footer-auckland-boatshow-v-1",
+      "src": "/img/web/sites-10-2021-11-nz-marine-sister-website-footer-auckland-boatshow-v-1-logo.webp",
+      "w": 300,
+      "h": 117,
+      "name": "NZ_Marine_sister_website_footer_Auckland_Boatshow_v-1"
+    },
+    {
+      "slug": "sites-10-2021-11-nz-marine-sister-website-footer-discover-boating-v-1",
+      "src": "/img/web/sites-10-2021-11-nz-marine-sister-website-footer-discover-boating-v-1-logo.webp",
+      "w": 300,
+      "h": 117,
+      "name": "NZ_Marine_sister_website_footer_Discover_Boating_v-1"
+    },
+    {
+      "slug": "sites-10-2021-11-nz-marine-sister-website-footer-mast-v-1",
+      "src": "/img/web/sites-10-2021-11-nz-marine-sister-website-footer-mast-v-1-logo.webp",
+      "w": 300,
+      "h": 117,
+      "name": "NZ_Marine_sister_website_footer_MAST_v-1"
+    },
+    {
+      "slug": "sites-10-2023-10-design-awards",
+      "src": "/img/web/sites-10-2023-10-design-awards-logo.webp",
+      "w": 249,
+      "h": 150,
+      "name": "Design-Awards"
+    },
+    {
+      "slug": "sites-10-2023-12-logotransparentexport300",
+      "src": "/img/web/sites-10-2023-12-logotransparentexport300-logo.webp",
+      "w": 280,
+      "h": 150,
+      "name": "LogoTransparentExport300"
+    },
+    {
+      "slug": "sites-10-2023-12-sealegs",
+      "src": "/img/web/sites-10-2023-12-sealegs-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "Sealegs"
+    },
+    {
+      "slug": "sites-10-2023-12-tectrax-logo-white-1",
+      "src": "/img/web/sites-10-2023-12-tectrax-logo-white-1-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "Tectrax-logo_White-1"
+    },
+    {
+      "slug": "sites-10-2023-12-ultralon-logo-1",
+      "src": "/img/web/sites-10-2023-12-ultralon-logo-1-logo.webp",
+      "w": 150,
+      "h": 150,
+      "name": "ultralon-logo-1"
+    }
+  ]
+}

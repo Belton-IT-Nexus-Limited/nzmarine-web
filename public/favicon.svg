@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="NZ Marine">
+  <rect width="32" height="32" rx="7" fill="#13243b" />
+  <path d="M6 21.5c2.2 1.4 3.8 1.4 6 0s3.8-1.4 6 0 3.8 1.4 6 0" fill="none" stroke="#2bb6c4" stroke-width="2" stroke-linecap="round" />
+  <path d="M16 6l5 11H11l5-11z" fill="#f2f5f8" />
+  <path d="M16 6l5 11h-5V6z" fill="#cfd9e3" />
+</svg>

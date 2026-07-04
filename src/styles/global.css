@@ -1,0 +1,68 @@
+@import 'tailwindcss';
+
+/* Self-hosted variable fonts: IBM Plex Sans (display) + Hanken Grotesk (body) */
+@import '@fontsource-variable/hanken-grotesk/index.css';
+@import '@fontsource-variable/ibm-plex-sans/index.css';
+
+@import './tokens.css';
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    font-synthesis-weight: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.018em;
+    color: var(--color-foreground);
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  /* Single, visible focus ring — never removed */
+  :focus-visible {
+    outline: 2px solid var(--color-ring);
+    outline-offset: 2px;
+    border-radius: var(--radius-xs);
+  }
+  ::selection {
+    background-color: var(--color-accent-200);
+    color: var(--color-navy-900);
+  }
+}
+
+@layer utilities {
+  /* Standard page-section rhythm */
+  .section-y {
+    padding-block: clamp(3.5rem, 2rem + 6vw, 6.5rem);
+  }
+  .section-y-sm {
+    padding-block: clamp(2.5rem, 1.5rem + 4vw, 4rem);
+  }
+  /* Render the dark brand logo as solid white on ink surfaces */
+  .logo-invert {
+    filter: brightness(0) invert(1);
+  }
+}
