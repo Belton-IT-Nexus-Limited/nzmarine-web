@@ -18,13 +18,14 @@ const SYNONYMS: { words: string[]; cats: number[] }[] = [
   { words: ['paint', 'painting', 'spray', 'topcoat', 'primer'], cats: [12, 25] },
   { words: ['prop', 'propeller', 'propulsion', 'thruster', 'shaft', 'stern gear', 'running gear', 'jet', 'waterjet', 'outdrive', 'sterndrive'], cats: [14] },
   { words: ['engine', 'motor', 'diesel', 'outboard', 'inboard', 'repower', 'overhaul', 'mechanical'], cats: [13, 26, 31] },
-  { words: ['sail', 'sails', 'sailmaker', 'rig', 'rigging', 'mast', 'spar', 'boom', 'standing rigging', 'running rigging'], cats: [15, 27] },
+  { words: ['sail', 'sails', 'sailmaker', 'mainsail', 'headsail', 'genoa', 'jib', 'spinnaker', 'canvas', 'sail repair'], cats: [15, 27] },
+  { words: ['rig', 'rigging', 'mast', 'spar', 'boom', 'standing rigging', 'running rigging', 'furler'], cats: [15, 27] },
   { words: ['electric', 'electrical', 'electronics', 'wiring', 'nav', 'navigation', 'radar', 'chartplotter', 'sonar', 'battery', 'batteries', 'solar', 'autopilot', 'instrument', 'radio'], cats: [16] },
   { words: ['hydraulic', 'plumbing', 'winch', 'anchor', 'windlass', 'steering'], cats: [17, 28] },
   { words: ['water maker', 'watermaker', 'desalination', 'desalinator', 'reverse osmosis'], cats: [18] },
   { words: ['fridge', 'refrigeration', 'air con', 'aircon', 'air conditioning', 'ventilation', 'hvac', 'cooling'], cats: [19] },
   { words: ['upholstery', 'interior', 'trim', 'cushion', 'canvas', 'cabinetry', 'joinery', 'fitout', 'fit out'], cats: [20, 36] },
-  { words: ['refit', 'refurbish', 'restore', 'restoration', 'rebuild', 'conversion', 'convert'], cats: [21, 10, 9] },
+  { words: ['refit', 'refurbish', 'restore', 'restoration', 'rebuild', 'conversion', 'convert'], cats: [21] },
   { words: ['haul out', 'haulout', 'dry dock', 'drydock', 'travel lift', 'travellift', 'slipway', 'hardstand', 'lift out'], cats: [22] },
   { words: ['build', 'builder', 'built', 'new build', 'boatbuilder', 'boat builder'], cats: [9, 10, 11] },
   { words: ['superyacht', 'super yacht', 'megayacht', 'mega yacht', 'large yacht'], cats: [6, 10, 45] },
@@ -136,9 +137,16 @@ export function findMembers(query: string, limit = 6): FinderResult {
   for (const m of directoryMembers) {
     let score = 0;
     const matched: string[] = [];
+    let catHits = 0;
     for (const ci of m.cats) {
       const cw = targetSet.get(ci);
-      if (cw) { score += cw * 2; matched.push(directoryCategories[ci].label); }
+      if (cw) { score += cw * 2; matched.push(directoryCategories[ci].label); catHits++; }
+    }
+    // Specialist boost: reward members for whom the matched trades are a large
+    // share of what they do, so a dedicated sailmaker outranks a full-service
+    // yard that merely lists the same trade among many.
+    if (catHits > 0 && m.cats.length > 0) {
+      score *= 1 + 0.6 * (catHits / m.cats.length);
     }
     const hay = (m.name + ' ' + m.blurb).toLowerCase();
     for (const t of toks) {
