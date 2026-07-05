@@ -28,7 +28,7 @@ spec:
                     app.kubernetes.io/name: nzmarine-web
       containers:
         - name: nzmarine-web
-          image: zot.zot.svc.cluster.local:5000/nzmarine/nzmarine-web@sha256:86261ee99302d2980215d306954309c8f7ffbc848c7083065380acf0c46f8095
+          image: ghcr.io/belton-it-nexus-limited/nzmarine-web@sha256:b6a90bd950154d325cda1d0b618359b19b7aa2aa83de60635d8fcff007da2f91
           ports:
             - containerPort: 8080
           resources:
