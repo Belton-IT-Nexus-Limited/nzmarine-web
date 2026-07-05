@@ -45,14 +45,16 @@ jobs:
           username: ${{ secrets.BITN_OCI_USER }}
           password: ${{ secrets.BITN_OCI_PWD }}
 
+      # v5 with default provenance emits the OCI image index this zot accepts;
+      # v6 with provenance disabled pushed a manifest zot rejected as invalid.
+      # Mirrors the proven QuickPacks prod-build.yml settings.
       - name: Build and push
         id: build
-        uses: docker/build-push-action@v6
+        uses: docker/build-push-action@v5
         with:
           context: .
           push: true
           tags: ${{ env.IMAGE }}:${{ github.sha }}
-          provenance: false
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
