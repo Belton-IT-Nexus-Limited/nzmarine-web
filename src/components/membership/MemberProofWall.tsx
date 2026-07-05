@@ -1,14 +1,15 @@
 import type { ReactElement } from 'react';
+import { LogoTile } from '@/components/blocks/LogoTile';
 import { Container } from '@/components/ui/Container';
 import { SectionHeading } from '@/components/ui/SectionHeading';
 import { Reveal } from '@/components/concept-b/Reveal';
-import { partnerLogos } from '@/content/media';
+import { companies } from '@/content/companies';
+
+const shown = companies.slice(0, 20);
 
 /**
- * Proof wall of real member and partner marks. Each logo sits on a light card
- * with a fixed aspect box so the lazy-loaded images cannot shift the layout. The
- * alt text names it as a member mark, since the source library is slug only, so
- * the wall still reads to assistive tech without inventing brand names.
+ * Proof wall of real member marks, named and linked, each on the plate its
+ * brand publishes (paper or ink navy).
  */
 export function MemberProofWall(): ReactElement {
   return (
@@ -25,19 +26,9 @@ export function MemberProofWall(): ReactElement {
 
       <Container>
         <ul className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-          {partnerLogos.map((logo) => (
-            <li key={logo.slug} className="flex">
-              <div className="flex aspect-[3/2] w-full items-center justify-center rounded-md border border-border bg-surface p-5">
-                <img
-                  src={logo.src}
-                  alt="A NZ Marine member company logo"
-                  width={logo.w}
-                  height={logo.h}
-                  loading="lazy"
-                  decoding="async"
-                  className="max-h-12 w-auto max-w-full object-contain opacity-80 motion-safe:transition-opacity motion-safe:duration-fast hover:opacity-100"
-                />
-              </div>
+          {shown.map((company) => (
+            <li key={company.slug} className="flex">
+              <LogoTile company={company} />
             </li>
           ))}
         </ul>

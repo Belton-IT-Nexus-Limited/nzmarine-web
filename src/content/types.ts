@@ -69,21 +69,37 @@ export type CompanyCategory =
   | 'Electronics'
   | 'Boat Builders'
   | 'Components'
-  | 'Services';
+  | 'Services'
+  | 'Apparel';
 
 export type Region =
   | 'Auckland'
   | 'Whangārei'
   | 'Tauranga'
+  | 'Whanganui'
   | 'Christchurch'
   | 'Nelson';
 
+/**
+ * Which surface a company's mark is drawn for. Marks published only in a
+ * reversed (white) colourway need the ink card; dark marks sit on paper.
+ */
+export type LogoTheme = 'paper' | 'ink';
+
 export interface Company {
+  slug: string;
   name: string;
   url: string;
   category: CompanyCategory;
+  /** One-line description of what the company does, in the site voice. */
+  blurb: string;
+  /** Path under /img/members/. Every company has a real, current mark. */
+  logo: string;
+  logoTheme: LogoTheme;
   region?: Region;
   recognised?: boolean;
+  /** Member of the NZ Marine Export Group. */
+  exporter?: boolean;
 }
 
 export interface SectorGroup {

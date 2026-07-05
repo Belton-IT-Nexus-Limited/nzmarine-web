@@ -2,7 +2,7 @@ import type { ReactElement } from 'react';
 import { Globe, Handshake, Plane, Ship } from 'lucide-react';
 import { CTABand } from '@/components/blocks/CTABand';
 import { FeatureGrid, type FeatureItem } from '@/components/blocks/FeatureGrid';
-import { LogoWall, type LogoItem } from '@/components/blocks/LogoWall';
+import { LogoWall } from '@/components/blocks/LogoWall';
 import { PageHero } from '@/components/blocks/PageHero';
 import { StatBand } from '@/components/blocks/StatBand';
 import { Button } from '@/components/ui/Button';
@@ -21,6 +21,7 @@ const categoryOrder: CompanyCategory[] = [
   'Electronics',
   'Components',
   'Services',
+  'Apparel',
 ];
 
 /** A short, buyer-facing line describing what each category covers. */
@@ -31,6 +32,7 @@ const categoryBlurb: Record<CompanyCategory, string> = {
   Electronics: 'Navigation, communications and onboard electronics for vessels of every size.',
   Components: 'Hardware, fittings, coatings and componentry built to perform in demanding marine conditions.',
   Services: 'Refit, project management, logistics and specialist marine services for visiting and offshore craft.',
+  Apparel: 'Crew uniforms and technical marine clothing for superyachts, race teams and working crews.',
 };
 
 function groupByCategory(companies: Company[]): Map<CompanyCategory, Company[]> {
@@ -44,10 +46,6 @@ function groupByCategory(companies: Company[]): Map<CompanyCategory, Company[]> 
     }
   }
   return groups;
-}
-
-function toLogos(companies: Company[]): LogoItem[] {
-  return companies.map((company) => ({ name: company.name, href: company.url }));
 }
 
 const helpItems: FeatureItem[] = [
@@ -152,7 +150,7 @@ export function Export(): ReactElement {
                     </p>
                   </div>
                 </Container>
-                <LogoWall className={cn('mt-6')} logos={toLogos(companies)} />
+                <LogoWall className={cn('mt-6')} companies={companies} />
               </div>
             );
           })}

@@ -6,9 +6,13 @@ import { JoinReveal } from '@/components/join/JoinReveal';
 import { Container } from '@/components/ui/Container';
 import { Eyebrow } from '@/components/ui/Eyebrow';
 import { Section } from '@/components/ui/Section';
-import { partnerLogos } from '@/content/media';
+import { companies } from '@/content/companies';
 
-const proofLogos = partnerLogos.slice(0, 7);
+/** Well-known dark marks that hold on the muted band without a plate. */
+const PROOF_SLUGS = ['doyle-sails', 'garmin', 'southern-spars', 'enl', 'propspeed', 'north-sails', 'babcock'];
+const proofLogos = PROOF_SLUGS.map((slug) => companies.find((c) => c.slug === slug)).filter(
+  (c): c is NonNullable<typeof c> => c !== undefined,
+);
 
 /**
  * The moment of joining. A community-led hero opens the page, then the
@@ -30,13 +34,11 @@ export function Join(): ReactElement {
               In good company with builders, exporters and the trades who back them
             </p>
             <ul className="flex flex-wrap items-center justify-center gap-x-8 gap-y-5">
-              {proofLogos.map((logo) => (
-                <li key={logo.slug}>
+              {proofLogos.map((company) => (
+                <li key={company.slug}>
                   <img
-                    src={logo.src}
-                    alt="A NZ Marine member or partner company logo"
-                    width={logo.w}
-                    height={logo.h}
+                    src={company.logo}
+                    alt={`${company.name} logo`}
                     loading="lazy"
                     decoding="async"
                     className="h-8 w-auto max-w-[8rem] object-contain opacity-70 sm:h-9"

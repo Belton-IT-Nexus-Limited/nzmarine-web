@@ -29,6 +29,11 @@ So: **edit code, push to `main`, and it goes live within a few minutes.** Rollba
 - `src/` — the React app. `src/content/` holds the typed data and the real image library
   (`media.ts`), `src/components/concept-b/` is the homepage, `src/components/about|membership|...`
   the other pages.
+- `src/content/companies.ts` — the single company data source (members + Export Group), with a
+  one-line blurb and each company's real logo. `members.ts`/`exporters.ts` are filtered views of it.
+- `public/img/members/` — the real, current member logos harvested from each company's own website
+  (2026-07). `logoTheme: 'ink'` in companies.ts marks reversed (white) marks that render on the
+  navy plate; re-harvest here rather than editing marks by hand.
 - `public/img/web/` — the real NZ Marine photo library (WebP) and the logo.
 - `deploy/` — the Kubernetes manifests Flux applies, plus the nginx config used by the Docker image.
 - `BUILD-CONTRACT.md` — the design-token and component rules the site is built to.

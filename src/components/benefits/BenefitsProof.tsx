@@ -1,15 +1,16 @@
 import type { ReactElement } from 'react';
-import { Section } from '@/components/ui/Section';
+import { LogoTile } from '@/components/blocks/LogoTile';
 import { Container } from '@/components/ui/Container';
+import { Section } from '@/components/ui/Section';
 import { SectionHeading } from '@/components/ui/SectionHeading';
-import { partnerLogos } from '@/content/media';
+import { companies } from '@/content/companies';
 import { Reveal } from './Reveal';
 
+const shown = companies.slice(0, 15);
+
 /**
- * Credibility wall of real member and partner marks, so the benefits read as
- * proven rather than promised. Logos sit on light cards in a fixed aspect box to
- * avoid layout shift. Alt names the mark as a member mark, since the source
- * library is slug only, so the wall still reads to assistive tech.
+ * Credibility wall of real member marks, named and linked, so the benefits
+ * read as proven rather than promised.
  */
 export function BenefitsProof(): ReactElement {
   return (
@@ -26,19 +27,9 @@ export function BenefitsProof(): ReactElement {
 
       <Container>
         <ul className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
-          {partnerLogos.map((logo) => (
-            <li key={logo.slug} className="flex">
-              <div className="flex aspect-[3/2] w-full items-center justify-center rounded-md border border-border bg-surface p-5">
-                <img
-                  src={logo.src}
-                  alt="A NZ Marine member or partner company logo"
-                  width={logo.w}
-                  height={logo.h}
-                  loading="lazy"
-                  decoding="async"
-                  className="max-h-12 w-auto max-w-full object-contain opacity-80 motion-safe:transition-opacity motion-safe:duration-fast hover:opacity-100"
-                />
-              </div>
+          {shown.map((company) => (
+            <li key={company.slug} className="flex">
+              <LogoTile company={company} />
             </li>
           ))}
         </ul>
