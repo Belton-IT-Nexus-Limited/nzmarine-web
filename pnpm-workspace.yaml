@@ -1,0 +1,8 @@
+# Single-project workspace root. This file exists for two reasons:
+# 1. pnpm >= 11 only reads settings from here (the package.json "pnpm" field
+#    is ignored), and esbuild's install script must be allowed or CI fails
+#    with ERR_PNPM_IGNORED_BUILDS.
+# 2. It stops pnpm resolving upward into any parent workspace.
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
