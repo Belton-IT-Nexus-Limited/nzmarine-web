@@ -1,8 +1,14 @@
 name: Build and deploy
 
 # On every push to main (except the promote commit and docs), build the site
-# image, push it to GHCR, then write the new immutable digest into
-# deploy/deployment.yaml. Flux watches this repo and rolls it out to the cluster.
+# image, push it to the Belton platform registry (docker.bitn.co.nz, the
+# external endpoint of the in-cluster zot that Flux-managed workloads pull
+# from), then write the new immutable digest into deploy/deployment.yaml
+# using the in-cluster registry address. Flux watches this repo and rolls it
+# out to tenant-nzmarine.
+#
+# GHCR is not used: the cluster pulls from its internal registry only, and a
+# private ghcr package left the rollout stuck in ImagePullBackOff (2026-07-05).
 on:
   push:
     branches: [main]
@@ -13,14 +19,16 @@ on:
 
 permissions:
   contents: write
-  packages: write
 
 concurrency:
   group: deploy-${{ github.ref }}
   cancel-in-progress: false
 
 env:
-  IMAGE: ghcr.io/belton-it-nexus-limited/nzmarine-web
+  REGISTRY: docker.bitn.co.nz
+  IMAGE: docker.bitn.co.nz/nzmarine/nzmarine-web
+  # The address the cluster pulls the same image from.
+  CLUSTER_IMAGE: zot.zot.svc.cluster.local:5000/nzmarine/nzmarine-web
 
 jobs:
   build-deploy:
@@ -30,12 +38,12 @@ jobs:
 
       - uses: docker/setup-buildx-action@v3
 
-      - name: Log in to GHCR
+      - name: Log in to the Belton platform registry
         uses: docker/login-action@v3
         with:
-          registry: ghcr.io
-          username: ${{ github.actor }}
-          password: ${{ secrets.GITHUB_TOKEN }}
+          registry: ${{ env.REGISTRY }}
+          username: ${{ secrets.BITN_OCI_USER }}
+          password: ${{ secrets.BITN_OCI_PWD }}
 
       - name: Build and push
         id: build
@@ -53,7 +61,7 @@ jobs:
           DIGEST: ${{ steps.build.outputs.digest }}
         run: |
           set -euo pipefail
-          REF="${IMAGE}@${DIGEST}"
+          REF="${CLUSTER_IMAGE}@${DIGEST}"
           echo "Promoting ${REF}"
           sed -i -E "s#(^[[:space:]]*image:[[:space:]]*).*#\1${REF}#" deploy/deployment.yaml
           grep 'image:' deploy/deployment.yaml
