@@ -1006,7 +1006,6 @@ export const directoryMembers: DirectoryMember[] = [
  {
   slug: "bluewater-marine-sales-ltd",
   name: "Bluewater Marine Sales Ltd",
-  url: "http://Coming soon!",
   region: "Auckland",
   cats: [
    4
@@ -1399,7 +1398,7 @@ export const directoryMembers: DirectoryMember[] = [
  {
   slug: "decked-out-yachting-ltd",
   name: "Charter Boat Broker Ltd",
-  url: "http://www.charterboatbroker.com ",
+  url: "http://www.charterboatbroker.com",
   cats: [
    39,
    38,
@@ -2549,7 +2548,7 @@ export const directoryMembers: DirectoryMember[] = [
  {
   slug: "ship-repair-nz",
   name: "Heron Ship Repair Ltd",
-  url: "http:// www.shiprepair.co.nz",
+  url: "http://www.shiprepair.co.nz",
   region: "Northland",
   cats: [
    11,
@@ -3719,7 +3718,7 @@ export const directoryMembers: DirectoryMember[] = [
  {
   slug: "motor-and-marine-services-ltd",
   name: "Motor & Marine Services Ltd",
-  url: "http://www.motorandmarine.nz ",
+  url: "http://www.motorandmarine.nz",
   region: "Auckland",
   cats: [
    13,
