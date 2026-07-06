@@ -84,8 +84,8 @@ export function HeroImmersive(): ReactElement {
           transition={{ duration: 16, ease: 'linear' }} // slop-scan-ignore: slow Ken Burns hero scale, motion-safe, single transform
         />
       )}
-      <div aria-hidden="true" className="absolute inset-0 -z-10 bg-navy-950/76" />
-      <div aria-hidden="true" className="absolute inset-0 -z-10 bg-gradient-to-r from-navy-950/50 to-transparent" />
+      <div aria-hidden="true" className="absolute inset-0 -z-10 bg-navy-950/58" />
+      <div aria-hidden="true" className="absolute inset-0 -z-10 bg-gradient-to-r from-navy-950/32 to-transparent" />
       <div aria-hidden="true" className="absolute inset-x-0 bottom-0 -z-10 h-40 bg-ink" />
 
       <Container size="wide" className="flex min-h-[92svh] items-center pb-12 pt-24 sm:pb-16 lg:items-end lg:pb-20 lg:pt-28">
