@@ -1,4 +1,4 @@
-import { useState, type ReactElement } from 'react';
+import { useEffect, useState, type ReactElement } from 'react';
 import { ArrowRight } from 'lucide-react';
 import { motion, useReducedMotion } from 'motion/react';
 import { Container } from '@/components/ui/Container';
@@ -42,6 +42,25 @@ const dispatches = [
 ];
 
 /**
+ * True from md (768px) up. The hero video is gated on this: below it, the
+ * clip is mostly hidden behind the headline and scrim anyway, so phones get
+ * the static image instead of a 3.5MB autoplaying download.
+ */
+function useIsDesktopViewport(): boolean {
+  const query = '(min-width: 768px)';
+  const [isDesktop, setIsDesktop] = useState(() => window.matchMedia(query).matches);
+
+  useEffect(() => {
+    const mql = window.matchMedia(query);
+    const handleChange = (event: MediaQueryListEvent): void => setIsDesktop(event.matches);
+    mql.addEventListener('change', handleChange);
+    return () => mql.removeEventListener('change', handleChange);
+  }, []);
+
+  return isDesktop;
+}
+
+/**
  * Full-viewport cinematic hero. A real landscape photograph fills the frame
  * under a single flat navy scrim so the headline always clears AA. The desktop
  * composition adds a small editorial dispatch stack to make the first view feel
@@ -49,8 +68,9 @@ const dispatches = [
  */
 export function HeroImmersive(): ReactElement {
   const reduceMotion = useReducedMotion();
+  const isDesktop = useIsDesktopViewport();
   const [videoFailed, setVideoFailed] = useState(false);
-  const showVideo = !reduceMotion && !videoFailed;
+  const showVideo = !reduceMotion && !videoFailed && isDesktop;
 
   return (
     <section className="relative isolate min-h-[92svh] overflow-hidden bg-ink text-ink-foreground">
@@ -88,7 +108,7 @@ export function HeroImmersive(): ReactElement {
       <div aria-hidden="true" className="absolute inset-0 -z-10 bg-gradient-to-r from-navy-950/32 to-transparent" />
       <div aria-hidden="true" className="absolute inset-x-0 bottom-0 -z-10 h-40 bg-ink" />
 
-      <Container size="wide" className="flex min-h-[92svh] items-center pb-12 pt-24 sm:pb-16 lg:items-end lg:pb-20 lg:pt-28">
+      <Container size="wide" className="flex min-h-[92svh] items-center pb-10 pt-12 sm:pb-16 sm:pt-24 lg:items-end lg:pb-20 lg:pt-28">
         <div className="grid w-full gap-12 lg:grid-cols-2 lg:items-end">
           <div className="max-w-4xl">
             <motion.p
