@@ -1,4 +1,4 @@
-import type { ReactElement } from 'react';
+import { useState, type ReactElement } from 'react';
 import { ArrowRight } from 'lucide-react';
 import { motion, useReducedMotion } from 'motion/react';
 import { Container } from '@/components/ui/Container';
@@ -49,22 +49,41 @@ const dispatches = [
  */
 export function HeroImmersive(): ReactElement {
   const reduceMotion = useReducedMotion();
+  const [videoFailed, setVideoFailed] = useState(false);
+  const showVideo = !reduceMotion && !videoFailed;
 
   return (
     <section className="relative isolate min-h-[92svh] overflow-hidden bg-ink text-ink-foreground">
-      <motion.img
-        src={hero.lg}
-        alt="Superyachts racing on New Zealand waters"
-        width={hero.w}
-        height={hero.h}
-        loading="eager"
-        fetchPriority="high"
-        decoding="async"
-        className="absolute inset-0 -z-10 size-full object-cover"
-        initial={reduceMotion ? false : { scale: 1.09 }}
-        animate={reduceMotion ? undefined : { scale: 1 }}
-        transition={{ duration: 16, ease: 'linear' }} // slop-scan-ignore: slow Ken Burns hero scale, motion-safe, single transform
-      />
+      {showVideo && (
+        <video
+          aria-hidden="true"
+          autoPlay
+          muted
+          loop
+          playsInline
+          preload="auto"
+          poster={hero.lg}
+          onError={() => setVideoFailed(true)}
+          className="absolute inset-0 -z-10 size-full object-cover"
+        >
+          <source src="/video/hero-sailing.mp4" type="video/mp4" />
+        </video>
+      )}
+      {!showVideo && (
+        <motion.img
+          src={hero.lg}
+          alt="Superyachts racing on New Zealand waters"
+          width={hero.w}
+          height={hero.h}
+          loading="eager"
+          fetchPriority="high"
+          decoding="async"
+          className="absolute inset-0 -z-10 size-full object-cover"
+          initial={reduceMotion ? false : { scale: 1.09 }}
+          animate={reduceMotion ? undefined : { scale: 1 }}
+          transition={{ duration: 16, ease: 'linear' }} // slop-scan-ignore: slow Ken Burns hero scale, motion-safe, single transform
+        />
+      )}
       <div aria-hidden="true" className="absolute inset-0 -z-10 bg-navy-950/76" />
       <div aria-hidden="true" className="absolute inset-y-0 left-0 -z-10 w-2/3 bg-navy-950/50" />
       <div aria-hidden="true" className="absolute inset-x-0 bottom-0 -z-10 h-40 bg-ink" />
